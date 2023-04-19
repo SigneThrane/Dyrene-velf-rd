@@ -11,3 +11,41 @@ Updated: 2023-04-19 10:44:01
 
 */
 
+/*{}*/
+
+body{ 
+    background-color: #F2E8DB;
+ }
+
+ 
+ .kontaktoplysninger{
+    background-color: #5D7E4B;
+    color: #F7F7F6;
+ }
+ 
+
+ .kontakt{
+    background-color: #5D7E4B;
+    color: #F7F7F6;
+ }
+
+ .custom-shape-divider-bottom-1681908059 {
+    position: absolute;
+    bottom: 1;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1681908059 svg {
+    position: relative;
+    display: block;
+    width: calc(121% + 1.3px);
+    height: 64px;
+}
+
+.custom-shape-divider-bottom-1681908059 .shape-fill {
+    fill: #F2E8DB;
+}
