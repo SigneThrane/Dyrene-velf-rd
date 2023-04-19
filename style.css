@@ -14,13 +14,15 @@ Updated: 2023-04-19 10:44:01
 /*{}*/
 
 body{ 
-    background-color: #F2E8DB;
+    background-color: #F7F7F6;
  }
 
  
  .kontaktoplysninger{
     background-color: #5D7E4B;
     color: #F7F7F6;
+    text-align: center;
+  
  }
  
 
@@ -29,23 +31,16 @@ body{
     color: #F7F7F6;
  }
 
- .custom-shape-divider-bottom-1681908059 {
-    position: absolute;
-    bottom: 1;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-    transform: rotate(180deg);
-}
+ .sponsor{
+    background-color: #F2E8DB;
+    color: #36482C;
+ }
 
-.custom-shape-divider-bottom-1681908059 svg {
-    position: relative;
-    display: block;
-    width: calc(121% + 1.3px);
-    height: 64px;
-}
+ .dyrene{
+    background-color: #F19B38;
+    color: #F2E8DB;
+ }
 
-.custom-shape-divider-bottom-1681908059 .shape-fill {
-    fill: #F2E8DB;
-}
+ button{
+ border-radius: 5%;
+ }
