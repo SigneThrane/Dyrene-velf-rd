@@ -21,9 +21,15 @@ body{
  .kontaktoplysninger{
     background-color: #5D7E4B;
     color: #F7F7F6;
-    text-align: center;
-  
  }
+
+ .oplysninger{
+   text-align: center;
+}
+
+.oplys{
+   padding-left: 20%;
+}
  
 
  .kontakt{
@@ -36,11 +42,13 @@ body{
  .sponsor{
     background-color: #F2E8DB;
     color: #36482C;
+    text-align: center;
  }
 
  .dyrene{
     background-color: #F19B38;
     color: #F2E8DB;
+    text-align: center;
  }
 
  button{
@@ -50,5 +58,11 @@ body{
 .footer{
     text-align: left;
     padding-left: 15%;
-   
     }
+
+    .map{
+      background-color: #5D7E4B;
+      color: #F7F7F6;
+   }
+
+  
