@@ -13,10 +13,6 @@ Updated: 2023-04-19 10:44:01
 
 /*{}*/
 
-body{ 
-    background-color: #F7F7F6;
- }
-
  
  .kontaktoplysninger{
     background-color: #5D7E4B;
@@ -36,10 +32,7 @@ body{
  .kontakt{
     background-color: #5D7E4B;
     color: #F7F7F6;
-<<<<<<< Updated upstream
-=======
     text-align: center;
->>>>>>> Stashed changes
  }
 
  .sponsor{
@@ -60,6 +53,8 @@ body{
 
 .footer{
     padding-left: 15%;
+    background-color: #5D7E4B;
+    color: #F7F7F6;
     }
 
     .map{
