@@ -15,7 +15,7 @@
 <div class="footer">
 				<div class="container px-5">
 					<br>
-				<div class="row gx-5 gx-5">
+				<div class="row gx-5">
 					
                         <div class="col-md-3">
 						<img  width="60%" src="<?php the_field('footer'); ?>" alt="logo" />
@@ -42,7 +42,7 @@
                         
                         </div>
                         
-						<div class="col-md-3">
+						<div class="col-md-3" id="some">
 						<i class="bi bi-facebook fa-10x"></i>
 						<i class="bi bi-instagram fa-lg"></i>
 
