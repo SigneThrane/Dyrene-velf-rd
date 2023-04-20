@@ -36,10 +36,6 @@ body{
  .kontakt{
     background-color: #5D7E4B;
     color: #F7F7F6;
-<<<<<<< Updated upstream
-=======
-    text-align: center;
->>>>>>> Stashed changes
  }
 
  .sponsor{
@@ -56,6 +52,7 @@ body{
 
  button{
  border-radius: 5%;
+ background-color: #F7F7F6;
  }
 
 .footer{
@@ -65,6 +62,12 @@ body{
     .map{
       background-color: #5D7E4B;
       color: #F7F7F6;
+   }
+
+   .foder{
+      background-color: #5D7E4B;
+      color: #F7F7F6;
+      text-align: center;
    }
 
 
