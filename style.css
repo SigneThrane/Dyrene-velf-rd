@@ -49,6 +49,7 @@ Updated: 2023-04-19 10:44:01
 
  button{
  border-radius: 5%;
+ background-color: #F7F7F6;
  }
 
 .footer{
@@ -58,8 +59,25 @@ Updated: 2023-04-19 10:44:01
     }
 
     .map{
+      background-color: #F2E8DB;
+      color: #F7F7F6;
+   }
+
+   .mapstotte{
+      color: #36482C;
+      text-align: center;
+   }
+
+   .foder{
       background-color: #5D7E4B;
       color: #F7F7F6;
+      text-align: center;
+   }
+
+   .stot{
+      background-color: #5D7E4B;
+      color: #F7F7F6;
+      text-align: center;
    }
 
 
