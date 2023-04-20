@@ -33,7 +33,7 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
         <div class="row">
         <div class="col-sm-4">
             <p>
-            Formand Jeanette Wulff Geerthsen <br>
+            Formand Jeanette Wulff Geerthsen  <br>
 
             Dyrenes.velfaerd@gmail.com <br>
 
