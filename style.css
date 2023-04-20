@@ -60,11 +60,22 @@ body{
     }
 
     .map{
-      background-color: #5D7E4B;
+      background-color: #F2E8DB;
       color: #F7F7F6;
    }
 
+   .mapstotte{
+      color: #36482C;
+      text-align: center;
+   }
+
    .foder{
+      background-color: #5D7E4B;
+      color: #F7F7F6;
+      text-align: center;
+   }
+
+   .stot{
       background-color: #5D7E4B;
       color: #F7F7F6;
       text-align: center;
