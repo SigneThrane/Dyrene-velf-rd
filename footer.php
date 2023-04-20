@@ -17,7 +17,7 @@
 					<br>
 				<div class="row gx-5">
 					
-                        <div class="col-md-3">
+                        <div class="col-md-4">
 						<img  width="60%" src="<?php the_field('footer'); ?>" alt="logo" />
 						<br> 
 						Tlf. 61 69 85 48 │dyrenes.velfaerd@gmail.com
@@ -42,8 +42,9 @@
                         
                         </div>
                         
-						<div class="col-md-3" id="some">
+						<div class="col-md-1" id="some">
 						<i class="bi bi-facebook fa-10x"></i>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 						<i class="bi bi-instagram fa-lg"></i>
 
 					
