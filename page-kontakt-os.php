@@ -15,7 +15,6 @@ get_header(); ?>
 
 <body>
         <div class="kontaktoplysninger">
-            <br>
                 <h3 class="oplysninger">Vores kontaktoplysninger</h3>
                 <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m. 
                     <br>
@@ -42,7 +41,7 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
             CVR-nr: 39052024 <br>
             </p>
 
-            <img  width="20%" src="<?php the_field('logo'); ?>" alt="Logo" />
+            <img  width="50%" src="<?php the_field('logo'); ?>" alt="Logo" />
 
         </div>
 

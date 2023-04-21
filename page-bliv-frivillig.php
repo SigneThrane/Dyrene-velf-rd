@@ -15,26 +15,27 @@ get_header(); ?>
 
 <body>
     <div class="soger">
+        <br>
         <h3>Vi søger aktivt</h3>
 
             <p>
-            Vi har altid brug for frivillige hænder, da vi får rigtig mange henvendelser om dyr i nød. <br>
+            Vi har altid brug for frivillige hænder, da vi får rigtig mange henvendelser om dyr i <br> nød. <br> <br>
 
-Er du den robuste type, som kan tåle at se lidt af hvert, som vi kommer ud til i vores sager og har tiden til at køre med som dyreredder? <br>
+Er du den robuste type, som kan tåle at se lidt af hvert, som vi kommer ud til i vores <br> sager og har tiden til at køre med som dyreredder? <br> <br>
 
-Dit hjerte skal være fuld af kærlighed til dyr.
+Dit hjerte skal være fuld af kærlighed til dyr. <br><br>
 
-Du skal kunne håndtere, at de mennesker vi kommer ud til, kan have mange grunde til ikke at kunne passe deres dyr, derfor er det en selvfølgelighed, at du besidder respekt og empati overfor disse mennesker. <br>
-Vi søger lige nu plejefamilier til dyr vi tager ind. <br>
+Du skal kunne håndtere, at de mennesker vi kommer ud til, kan have mange grunde <br> til ikke at kunne passe deres dyr, derfor er det en selvfølgelighed, at du besidder <br> respekt og empati overfor disse mennesker. <br>
+Vi søger lige nu plejefamilier til dyr vi tager ind. <br> <br>
 
-Du skal have en ren straffeattest. <br>
+Du skal have en ren straffeattest. <br> <br>
 
-Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil vende tilbage hurtigst muligt. Ved spørgsmål kan vi kontaktes via kontaktformularen eller telefon. 
+Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil vende <br> tilbage hurtigst muligt. Ved spørgsmål kan vi kontaktes via kontaktformularen eller telefon. 
             </p>
         
-    </div>
+   
 
-    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 64px;">
+        <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 64px;">
                     <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(93, 126, 75);"></path>
                 </svg></div>
 
@@ -79,6 +80,7 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>
+        </div>
 </body>
 
 

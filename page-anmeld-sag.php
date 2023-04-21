@@ -44,7 +44,9 @@ Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
         </div>
    
                 <div class="sager">
+                <br> <br>
                     <div class="row">
+                       
                         <div class="col-md-4">
                            
                       <img  width="80%" src="<?php the_field('sag_1'); ?>" alt="Dyre i nød" />

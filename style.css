@@ -78,7 +78,7 @@ Updated: 2023-04-19 10:44:01
 
 
    .footer{
-      background-color: #5D7E4B;
+      background-color: #36482C;
       color: #F7F7F6;
      
       line-height: 3;
@@ -103,10 +103,14 @@ Updated: 2023-04-19 10:44:01
    background-color: #F2E8DB;
    color: #36482C;
    text-align: center;
-   padding: 2%;
+ 
 }
 
 
 h3{
    text-align: center;
+}
+
+p{
+   font-size: larger;
 }
