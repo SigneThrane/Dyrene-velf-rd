@@ -53,7 +53,7 @@ Updated: 2023-04-19 10:44:01
  }
 
 
-    .map{
+    .map2{
       background-color: #F2E8DB;
       color: #F7F7F6;
    }
@@ -73,11 +73,12 @@ Updated: 2023-04-19 10:44:01
       background-color: #5D7E4B;
       color: #F7F7F6;
       text-align: center;
+     padding: 2%;
    }
 
 /*FOOTER*/
    .footer{
-      background-color: #5D7E4B;
+      background-color: #36482C;
       color: #F7F7F6;
      
       line-height: 3;
@@ -110,4 +111,41 @@ nav#mobile-menu.burgermenu-active {
 
 
 
-  
+/*HEADER*/
+
+nav#mobile-menu.burgermenu-active {
+   background-color: #36482C;
+   color: #F2E8DB;
+}
+
+#header-overlay {
+	position: absolute;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+.sager{
+   background-color: #F19B38;
+   text-align: center;
+}
+
+
+.soger{
+   background-color: #F2E8DB;
+   color: #36482C;
+   text-align: center;
+ 
+}
+
+
+h3{
+   text-align: center;
+}
+
+p{
+   font-size: larger;
+}
