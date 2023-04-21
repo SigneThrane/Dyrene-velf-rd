@@ -14,5 +14,74 @@
 get_header(); ?>
 
 <body>
-   
+    <div class="soger">
+        <h3>Vi søger aktivt</h3>
+
+            <p>
+            Vi har altid brug for frivillige hænder, da vi får rigtig mange henvendelser om dyr i nød. <br>
+
+Er du den robuste type, som kan tåle at se lidt af hvert, som vi kommer ud til i vores sager og har tiden til at køre med som dyreredder? <br>
+
+Dit hjerte skal være fuld af kærlighed til dyr.
+
+Du skal kunne håndtere, at de mennesker vi kommer ud til, kan have mange grunde til ikke at kunne passe deres dyr, derfor er det en selvfølgelighed, at du besidder respekt og empati overfor disse mennesker. <br>
+Vi søger lige nu plejefamilier til dyr vi tager ind. <br>
+
+Du skal have en ren straffeattest. <br>
+
+Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil vende tilbage hurtigst muligt. Ved spørgsmål kan vi kontaktes via kontaktformularen eller telefon. 
+            </p>
+        
+    </div>
+
+    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 64px;">
+                    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(93, 126, 75);"></path>
+                </svg></div>
+
+                <div class="kontakt">
+                    <h3>Kontakt</h3>
+                 
+                    <p>Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>
+
+Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
+
+Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p>
+        <div class="row">
+        <div class="col-sm-4">
+            <p>
+            Formand Jeanette Wulff Geerthsen  <br>
+
+            Dyrenes.velfaerd@gmail.com <br>
+
+            <p><i id="kontakticon" class="fas fa-phone me-3"></i> + 45 61 69 85 48</p>
+          
+            CVR-nr: 39052024 <br>
+            </p>
+
+            <img  width="20%" src="<?php the_field('logo'); ?>" alt="Logo" />
+
+        </div>
+
+                <div class="col-sm-8">
+                <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?>
+                </div>
+    </div>
+                
+                    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(109% + 1.3px); height: 67px; transform: rotateY(180deg);">
+                    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(241, 155, 56);"></path>
+                </svg></div>
+                </div>
+
+                <div class="dyrene">
+			<br> <br>
+			<h3>Hjælp dyrene - støt en god sag</h3>
+			<button>DONÉR NU </button>
+			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
+			<br>
+		</div>
 </body>
+
+
+
+<?php
+get_footer();
