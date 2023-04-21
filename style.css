@@ -75,7 +75,7 @@ Updated: 2023-04-19 10:44:01
       text-align: center;
    }
 
-
+/*FOOTER*/
    .footer{
       background-color: #5D7E4B;
       color: #F7F7F6;
@@ -90,5 +90,24 @@ Updated: 2023-04-19 10:44:01
    font-size: 2.5rem;
 
 }
+
+/*HEADER*/
+
+nav#mobile-menu.burgermenu-active {
+   background-color: #36482C;
+   color: #F2E8DB;
+}
+
+#header-overlay {
+	position: absolute;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
 
   

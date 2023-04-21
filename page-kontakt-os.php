@@ -27,7 +27,7 @@ Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00
 Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</h5>
 <br><br><br><br>
 
-</div>       
+</div>    
 
         <div class="kontakt">
         <div class="row">
