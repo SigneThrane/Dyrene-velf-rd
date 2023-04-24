@@ -108,6 +108,28 @@ nav#mobile-menu.burgermenu-active {
 	height: 100%;
 }
 
+.bravada-fullscreen-headerimage .lp-staticslider-image, .bravada-fullscreen-headerimage .header-image {
+   height: 0vh;
+   width: 100%;
+   object-fit: cover;
+}
+
+#header-page-title {
+   display: flex;
+   margin: 0%;
+   position:;
+   align-content: flex;
+}
+
+#header-page-title-inside {
+   display: flex;
+   align-items: flex-end;
+   align-content: flex-end;
+   margin: 0%;
+   padding: 0;
+}
+
+
 
 
 
@@ -132,25 +154,3 @@ h3{
 p{
    font-size: larger;
 }
-
-.bravada-fullscreen-headerimage .lp-staticslider-image, .bravada-fullscreen-headerimage .header-image {
-   height: 0vh;
-   width: 100%;
-   object-fit: cover;
-}
-
-#header-page-title {
-   display: flex;
-   margin: 0%;
-   position:;
-   align-content: flex;
-}
-
-#header-page-title-inside {
-   display: flex;
-   align-items: flex-end;
-   align-content: flex-end;
-   margin: 0%;
-   padding: 0;
-}
-
