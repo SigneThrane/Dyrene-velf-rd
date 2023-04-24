@@ -13,7 +13,7 @@ Updated: 2023-04-19 10:44:01
 
 /*{}*/
 
- 
+ /*Kontakt os*/
  .kontaktoplysninger{
     background-color: #5D7E4B;
     color: #F7F7F6;
@@ -47,11 +47,7 @@ Updated: 2023-04-19 10:44:01
     text-align: center;
  }
 
- button{
- border-radius: 5%;
- background-color: #F7F7F6;
- }
-
+ /*Støt dyrene*/
 
     .map2{
       background-color: #F2E8DB;
@@ -108,15 +104,7 @@ nav#mobile-menu.burgermenu-active {
 	height: 100%;
 }
 
-
-
-
-.sager{
-   background-color: #F19B38;
-   text-align: center;
-}
-
-
+/*Bliv frivillig*/
 .soger{
    background-color: #F2E8DB;
    color: #36482C;
@@ -124,6 +112,15 @@ nav#mobile-menu.burgermenu-active {
  
 }
 
+/*Anmeld sag*/
+.sager{
+   background-color: #F19B38;
+   text-align: center;
+}
+
+
+
+/*Font size*/
 
 h3{
    text-align: center;
@@ -132,6 +129,7 @@ h3{
 p{
    font-size: larger;
 }
+
 
 .bravada-fullscreen-headerimage .lp-staticslider-image, .bravada-fullscreen-headerimage .header-image {
    height: 0vh;
@@ -154,3 +152,9 @@ p{
    padding: 0;
 }
 
+/*Knapper*/
+
+button{
+   border-radius: 5%;
+   background-color: #F7F7F6;
+   }
