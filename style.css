@@ -111,23 +111,6 @@ nav#mobile-menu.burgermenu-active {
 
 
 
-/*HEADER*/
-
-nav#mobile-menu.burgermenu-active {
-   background-color: #36482C;
-   color: #F2E8DB;
-}
-
-#header-overlay {
-	position: absolute;
-	z-index: 1;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
-}
-
-
 .sager{
    background-color: #F19B38;
    text-align: center;
@@ -149,3 +132,25 @@ h3{
 p{
    font-size: larger;
 }
+
+.bravada-fullscreen-headerimage .lp-staticslider-image, .bravada-fullscreen-headerimage .header-image {
+   height: 0vh;
+   width: 100%;
+   object-fit: cover;
+}
+
+#header-page-title {
+   display: flex;
+   margin: 0%;
+   position:;
+   align-content: flex;
+}
+
+#header-page-title-inside {
+   display: flex;
+   align-items: flex-end;
+   align-content: flex-end;
+   margin: 0%;
+   padding: 0;
+}
+

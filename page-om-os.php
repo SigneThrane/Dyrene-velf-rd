@@ -15,6 +15,7 @@ get_header(); ?>
 
 <body>
 <div class="soger">
+<main id="main" class="main">
         <br>
         <h3>Om dyrenes velfærd</h3>
             <p>

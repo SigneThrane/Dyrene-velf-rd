@@ -14,6 +14,7 @@
 get_header(); ?>
 
 <body>
+<main id="main" class="main">
     <div class="stot">
     <div>
         <h3>Donationer modtages med glæde</h3>
