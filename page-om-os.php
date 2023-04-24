@@ -58,30 +58,9 @@ landmænd, som bringer unikke og værdifulde kompetencer til vores indsats.
                                     <h3>Anmeldelser</h3>
                                     <p>Anmeldelserne er taget fra vores facebook side</p>
                                     <br>
-
-                                            <div id class="row">
-                                                <div class="col-md-2">
-                                                Stig
-                                                <br> <br> <br><br>
-                                                Mette
-                                                <br><br><br>
-                                                Helle
-                                                <br><br>
-                                                </div>
-                                                        <div class="col-md-10">
-                                                        Det i gør i Dyrenes velfærd er SUPER godt arbejde og det skal i blive ved med, lige så længe at folk ikke kan tage vare på dyr og behandle 
-                                                        dem ordentlig. Og JA - det er sørgeligt at mennesker kan finde på at behandle dyr på så usle måder, og de bør straffes, da det ikke er dyrene som 
-                                                        vælger mennesker , men derimod mennesker som vælger dyrene.  Jeg bliver glad hver gang der bliver taget 
-                                                        hånd om dyr der ikke bliver passet og plejet på ret vis, så I gør et STORT og FLOT arbejde, og fortsæt med det.....
-                                                        <br><br>
-                                                        Dyrenes Velfærd er FANTASTISKE  der bliver ikke givet op på dyrenes vegne, trods inkompetente offentlige instanser, som ikke ved, hvornår et dyr lider! 
-                                                        Dyrenes Velfærd er dyrenes stemme!
-                                                        <br><br><br>
-                                                        De er grundige i deres arbejde, og følger til dørs♥️De ligger et kæmpe arbejde i at dyr har det godt, og behandles ordentlig
-
-                                                        </div>
-                                            </div>
                                 </div>
+
+                                        <div><?php echo do_shortcode('[sp_testimonial id="90"]');?></div>
                 
                     <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(109% + 1.3px); height: 67px; transform: rotateY(180deg);">
                     <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(241, 155, 56);"></path>
@@ -95,6 +74,7 @@ landmænd, som bringer unikke og værdifulde kompetencer til vores indsats.
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>
+        </div>
         </div>
 </body>
 
