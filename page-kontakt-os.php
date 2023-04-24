@@ -17,14 +17,10 @@ get_header(); ?>
 <main id="main" class="main">
         <div class="kontaktoplysninger">
                 <h3 class="oplysninger">Vores kontaktoplysninger</h3>
-                <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m. 
-                    <br>
+                <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>
+                   Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
 
-
-Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 
-<br>
-
-Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</h5>
+                    Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</h5>
 <br><br><br><br>
 
 </div>    

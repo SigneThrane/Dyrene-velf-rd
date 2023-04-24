@@ -13,6 +13,8 @@ Updated: 2023-04-19 10:44:01
 
 /*{}*/
 
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
  /*Kontakt os*/
  .kontaktoplysninger{
     background-color: #5D7E4B;
@@ -76,7 +78,7 @@ Updated: 2023-04-19 10:44:01
    .footer{
       background-color: #36482C;
       color: #F7F7F6;
-     
+      font-family: itim;
       line-height: 3;
       }
 
@@ -158,17 +160,14 @@ nav#mobile-menu.burgermenu-active {
    color: #36482C;
 }
 
-#personale{
-   background-color: #F2E8DB;
-   color: #36482C;
-}
-
 /*Font size*/
 
-h3{
+h3, h5{
    text-align: center;
+   font-family: itim;
 }
 
 p{
    font-size: larger;
+   font-family: itim;
 }

@@ -16,22 +16,21 @@ get_header(); ?>
 <main id="main" class="main">
     <div class="soger">
 <div class="container overflow-hidden">
-        <br>
         <h3>Vi søger aktivt</h3>
 
             <p>
             Vi har altid brug for frivillige hænder, da vi får rigtig mange henvendelser om dyr i nød.
 
-Er du den robuste type, som kan tåle at se lidt af hvert, som vi kommer ud til i vores sager og har tiden til at køre med som dyreredder?
+            Er du den robuste type, som kan tåle at se lidt af hvert, som vi kommer ud til i vores sager og har tiden til at køre med som dyreredder?
 
-Dit hjerte skal være fuld af kærlighed til dyr.
+            Dit hjerte skal være fuld af kærlighed til dyr.
 
-Du skal kunne håndtere, at de mennesker vi kommer ud til, kan have mange grunde til ikke at kunne passe deres dyr, derfor er det en selvfølgelighed, at du besidder respekt og empati overfor disse mennesker.
-Vi søger lige nu plejefamilier til dyr vi tager ind. 
+            Du skal kunne håndtere, at de mennesker vi kommer ud til, kan have mange grunde til ikke at kunne passe deres dyr, derfor er det en selvfølgelighed, at du besidder respekt og empati overfor disse mennesker.
+            Vi søger lige nu plejefamilier til dyr vi tager ind. 
 
-Du skal have en ren straffeattest. 
+            Du skal have en ren straffeattest. 
 
-Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil vende tilbage hurtigst muligt. Ved spørgsmål kan vi kontaktes via kontaktformularen eller telefon. 
+            Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil vende tilbage hurtigst muligt. Ved spørgsmål kan vi kontaktes via kontaktformularen eller telefon. 
             </p>
         
 </div>
@@ -46,10 +45,11 @@ Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil 
                  
                     <p>Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>
 
-Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
+                    Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
 
-Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p>
-        <div class="row gy-5 gx-5">
+                    Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p>
+       
+<div class="row gy-5 gx-5">
         <div class="col-sm-4">
             <p>
             Formand Jeanette Wulff Geerthsen  <br>
@@ -61,7 +61,7 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
             CVR-nr: 39052024 <br>
             </p>
 
-            <img  width="20%" src="<?php the_field('logo'); ?>" alt="Logo" />
+            <img  width="60%" src="<?php the_field('logo'); ?>" alt="Logo" />
 
         </div>
 
@@ -77,7 +77,7 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
                 </div>
 
                 <div class="dyrene">
-			<br> <br>
+			    <div class="container overflow-hidden">
 			<h3>Hjælp dyrene - støt en god sag</h3>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
