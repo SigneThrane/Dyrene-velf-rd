@@ -113,17 +113,18 @@ nav#mobile-menu.burgermenu-active {
 #header-page-title {
    display: flex;
    margin: 0%;
-   position:;
    align-content: flex;
+   justify-content: flex-end;
+   padding-bottom: 10vh;
+   padding-left: 80vh;
 }
 
-#header-page-title-inside {
-   display: flex;
-   align-items: flex-end;
-   align-content: flex-end;
-   margin: 0%;
-   padding: 0;
-}
+@media only screen and (max-width: 1160px) {
+   #header-page-title  {
+      padding-bottom: 0;
+      padding-left: 0;
+   }
+ }
 
 
 /*Bliv frivllig*/
