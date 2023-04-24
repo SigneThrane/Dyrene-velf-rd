@@ -53,7 +53,7 @@ Updated: 2023-04-19 10:44:01
 
     .map2{
       background-color: #F2E8DB;
-      color: #F7F7F6;
+      color: #36482C;
    }
 
    .mapstotte{
@@ -171,3 +171,26 @@ p{
    font-size: larger;
    font-family: itim;
 }
+
+/*Forside*/
+.anmeldsag{
+   background-color: #5D7E4B;
+   color: #F7F7F6;
+   text-align: center;
+}
+
+.animation{
+   background-color: #F2E8DB;
+   color: #36482C;
+   text-align: center;
+}
+
+
+.map{
+   background-color: #F2E8DB;
+   color: #36482C;
+   text-align: center;
+}
+
+
+
