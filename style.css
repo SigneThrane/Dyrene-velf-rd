@@ -140,7 +140,27 @@ nav#mobile-menu.burgermenu-active {
    text-align: center;
 }
 
+/*Om os*/
+.hvem{
+   background-color: #5D7E4B;
+   color: #F7F7F6;
+}
 
+.anmeldelser{
+   background-color: #F2E8DB;
+   color: #36482C;
+   text-align: center;
+}
+
+.om{
+   background-color: #F2E8DB;
+   color: #36482C;
+}
+
+#personale{
+   background-color: #F2E8DB;
+   color: #36482C;
+}
 
 /*Font size*/
 
