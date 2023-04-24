@@ -17,7 +17,7 @@ get_header(); ?>
 <div class="soger">
 <main id="main" class="main">
         <br>
-        <h3>Om dyrenes velfærd fgf</h3>
+        <h3>Om dyrenes velfærd</h3>
             <p>
             Dyrenes Velfærd er en non-profit organisation med base i Christiansfeld. <br> 
             Organisationen blev etableret i januar 2018 med det formål at håndhæve <br>
