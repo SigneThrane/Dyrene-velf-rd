@@ -14,7 +14,6 @@
 get_header(); ?>
 
 <body>
-<main id="main" class="main">
         <div class="kontaktoplysninger">
                 <h3 class="oplysninger">Vores kontaktoplysninger</h3>
                 <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>

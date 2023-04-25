@@ -162,7 +162,7 @@ nav#mobile-menu.burgermenu-active {
 
 /*Font size*/
 
-h3, h5{
+h3, h5, h4{
    text-align: center;
    font-family: itim;
 }
@@ -192,5 +192,26 @@ p{
    text-align: center;
 }
 
+/*Guides*/
+.hunde{
+   background-color: #5D7E4B;
+   color: #F7F7F6;
+   text-align: center;
+   padding: 10%;
+}
+
+#link
+{
+   color: #F19B38;
+   text-align: right;
+}
+
+#white
+{
+   background-color: #F2E8DB;
+   color: #36482C;
+   padding: 2%;
+   border-radius: 2%;
+}
 
 
