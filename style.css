@@ -71,7 +71,15 @@ Updated: 2023-04-19 10:44:01
       background-color: #5D7E4B;
       color: #F7F7F6;
       text-align: center;
-     padding: 2%;
+     padding: 5%;
+   }
+
+   #op{
+      background-color: #F7F7F6;
+      border-radius: 20%;
+      padding: 1%;
+      margin: 1%;
+      max-width: max-content;
    }
 
 /*FOOTER*/

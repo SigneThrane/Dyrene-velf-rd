@@ -14,7 +14,6 @@
 get_header(); ?>
 
 <body>
-<main id="main" class="main">
     <div class="stot">
     <h3>Donationer modtages med glæde</h3>
     <div class="row">
@@ -41,30 +40,39 @@ get_header(); ?>
                 <div class="map">
 			<br>
 			<h3>Du kan støtte på følgende måde</h3>
-			 <br><br><br><br><br><br><br><br>
-			<div class="row">
-				<div class="col-md-3">
+			 <br><br><br><br><br>
+			<div class="row"> 
+				<div class="col-md-3" id="op">
+                <img  width="70%" src="<?php the_field('bliv_medlem'); ?>" alt="Katte der spiser" />
+                <br><br>
 					<h4>Bliv medlem</h4>
 					<p>Det koster kun 100 <br>
                     kroner om året.</p>
 				</div>
 
-				<div class="col-md-3">
+				<div class="col-md-3" id="op">
+                <img  width="70%" src="<?php the_field('bliv_frivillig'); ?>" alt="Katte der spiser" />
+                <br><br>
 				<h4>Bliv frivillig</h4>
 					<p>Vi har altid brug for <br>
                     frivillige hænder.</p>
 				</div>
 
-				<div class="col-md-3">
-				<h4>Giv et bidrag</h4>
+				<div class="col-md-3" id="op">
+                <img  width="70%" src="<?php the_field('bliv_sponsor'); ?>" alt="Katte der spiser" />
+                <br><br>
+				<h4>Bliv sponsor</h4>
 					<p>
-					Beløbet går ubeskåret <br>
-                    til dyrene.
+					Som sponsor kan du <br>
+                    være med 
+                    til at gøre en forskel.
 					</p>
 				</div>
 
-				<div class="col-md-3">
-				<h4>Donere</h4>
+				<div class="col-md-3" id="op">
+                <img  width="70%" src="<?php the_field('giv_et_bidrag'); ?>" alt="Katte der spiser" />
+                <br><br>
+				<h4>Giv et bidrag</h4>
 					<p>Beløbet går ubeskåret <br> 
 						til dyrene.</p>
 				</div>
