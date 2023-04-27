@@ -14,6 +14,10 @@ get_header();
 <body>
 	
 		<div class="map">
+<<<<<<< HEAD
+			<p>Hvad kan du gøre? </p>
+		</div>
+=======
 			<br>
 			<h3>Hvad kan du gøre?</h3>
 			 <br><br><br><br><br><br><br><br>
@@ -24,6 +28,7 @@ get_header();
 						at få forbedret dyrenes <br>
 						forhold.</p>
 				</div>
+>>>>>>> b3677e5505a1cf33649f7758b4f31d1e3dfa22c2
 
 				<div class="col-md-3">
 				<h4>Meld dig ind</h4>
