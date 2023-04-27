@@ -190,7 +190,13 @@ p{
    background-color: #F2E8DB;
    color: #36482C;
    text-align: center;
+   background-image: url("img/denmark.png") ;
+   background-repeat: no-repeat;
+   background-size: 40%;
+   background-position: center;
+   background-attachment: fixed;
 }
+
 
 /*Guides*/
 .hunde{
@@ -213,5 +219,7 @@ p{
    padding: 2%;
    border-radius: 2%;
 }
+
+
 
 
