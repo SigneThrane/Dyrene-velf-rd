@@ -14,29 +14,25 @@ get_header();
 <body>
 	
 		<div class="map">
-<<<<<<< HEAD
-			<p>Hvad kan du gøre? </p>
-		</div>
-=======
 			<br>
 			<h3>Hvad kan du gøre?</h3>
 			 <br><br><br><br><br><br><br><br>
 			<div class="row">
-				<div class="col-md-3">
+				<div class="col-md-3" id="op">
 					<h4>Anmeld en sag</h4>
-					<p>Vi besøger stedet for <br> 
+					<p><a href="www.google.com">Vi besøger stedet for <br> 
 						at få forbedret dyrenes <br>
-						forhold.</p>
+						forhold.</a></p>
+					
 				</div>
->>>>>>> b3677e5505a1cf33649f7758b4f31d1e3dfa22c2
 
-				<div class="col-md-3">
+				<div class="col-md-3" id="op">
 				<h4>Meld dig ind</h4>
 					<p>Det koster kun 100 <br>
 					kroner om året.</p>
 				</div>
 
-				<div class="col-md-3">
+				<div class="col-md-3" id="op">
 				<h4>Bliv sponsor</h4>
 					<p>
 					Som sponsor kan du <br>
@@ -45,7 +41,7 @@ get_header();
 					</p>
 				</div>
 
-				<div class="col-md-3">
+				<div class="col-md-3" id="op">
 				<h4>Donere</h4>
 					<p>Beløbet går ubeskåret <br> 
 						til dyrene.</p>

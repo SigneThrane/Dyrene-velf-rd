@@ -46,32 +46,23 @@ Updated: 2023-04-19 10:44:01
     background-color: #F19B38;
     color: #F2E8DB;
     text-align: center;
-line-height: 5rem;
+   line-height: 2rem;
  }
 
  /*Støt dyrene*/
-
-    .map2{
-      background-color: #F2E8DB;
-      color: #36482C;
-   }
-
-   .mapstotte{
-      color: #36482C;
-      text-align: center;
-   }
 
    .foder{
       background-color: #5D7E4B;
       color: #F7F7F6;
       text-align: center;
+      line-height: 2rem;
    }
 
    .stot{
       background-color: #5D7E4B;
       color: #F7F7F6;
       text-align: center;
-     padding: 5%;
+      line-height: 2rem;
    }
 
    #op{
@@ -80,6 +71,7 @@ line-height: 5rem;
       padding: 1%;
       margin: 1%;
       max-width: max-content;
+      line-height: 2rem;
    }
 
 /*FOOTER*/
@@ -153,19 +145,12 @@ nav#mobile-menu.burgermenu-active {
 
 /*Font size*/
 
-<<<<<<< HEAD
-h3{
-=======
 h3, h5, h4{
->>>>>>> b3677e5505a1cf33649f7758b4f31d1e3dfa22c2
    text-align: center;
 }
 
 p{
    font-size: larger;
-<<<<<<< HEAD
-}
-=======
    font-family: itim;
 }
 
@@ -186,10 +171,9 @@ p{
 .map{
    background-color: #F2E8DB;
    color: #36482C;
-   text-align: center;
    background-image: url("img/denmark.png") ;
    background-repeat: no-repeat;
-   background-size: 40%;
+   background-size: 43%;
    background-position: center;
    background-attachment: fixed;
 }
@@ -218,6 +202,23 @@ p{
 }
 
 
+/*om os*/
+.hvem{
+   background-color: #5D7E4B;
+   color: #F7F7F6;
+   text-align: center;
+}
+
+.anmeldelser{
+   background-color: #F2E8DB;
+   color: #36482C;
+}
+
+.om{
+   background-color: #F2E8DB;
+   color: #36482C;
+}
 
 
->>>>>>> b3677e5505a1cf33649f7758b4f31d1e3dfa22c2
+
+

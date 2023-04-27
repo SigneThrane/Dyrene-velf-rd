@@ -30,7 +30,6 @@ get_header(); ?>
 
               <div class="col-md-6">
               <img  width="30%" src="<?php the_field('hest'); ?>" alt="hest" />
-              </div>
     </div>
     </div>
 
@@ -77,7 +76,7 @@ get_header(); ?>
 						til dyrene.</p>
 				</div>
 			</div>
-			<br><br><br><br><br><br><br>
+			<br><br><br><br><br><br>
              
 
 <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 64px;">
@@ -112,6 +111,7 @@ get_header(); ?>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>
+           </div>
            </div>
                         
 </body>
