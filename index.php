@@ -14,7 +14,7 @@ get_header();
 <body>
 	
 		<div class="map">
-			<p>Hvad kan du gøre?</p>
+			<p>Hvad kan du gøre? </p>
 		</div>
 
 		
