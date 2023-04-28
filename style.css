@@ -148,7 +148,7 @@ nav#mobile-menu.burgermenu-active {
 
 h3, h5, h4, h1, h2{
    text-align: center;
-   font-family: itim;
+   font-family: itim !important;
 }
 
 p{
