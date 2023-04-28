@@ -13,6 +13,8 @@ Updated: 2023-04-19 10:44:01
 
 /*{}*/
 
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lato:wght@900&display=swap');
+
  /*Kontakt os*/
  .kontaktoplysninger{
     background-color: #5D7E4B;
@@ -146,9 +148,15 @@ nav#mobile-menu.burgermenu-active {
 
 /*Font size*/
 
+.entry-title {
+   font-family: 'Lato', sans-serif !important;
+   color: #F6C883 !important;
+}
+
 h1, h2, h3, h4, h5{
    text-align: center;
    font-family: itim !important;
+   padding: 3rem;
 }
 
 p{
