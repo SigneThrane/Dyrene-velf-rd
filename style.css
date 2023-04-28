@@ -230,12 +230,13 @@ p{
     right: 0px;
     padding:0px;
     margin:0px;
-    width: 40px;
-    height:160px;
+    width: 60px;
+    height:180px;
     background:#F19B38;
     z-index:2000;
     border-radius: 3px 0px 0px 3px;
-    filter: drop-shadow(-5px 2px 7px #0000005e);
+    filter: drop-shadow(-5px 2px 7px #00000014);
+    text-align: center;
 }
 
 #donersticky p
@@ -245,7 +246,7 @@ p{
     -ms-transform:rotate(-90deg);
     -o-transform:rotate(-90deg);
     -webkit-transform:rotate(-90deg);
-    text-align: center;
-
+    margin-top:70px;
+    line-height: normal;
 }
 

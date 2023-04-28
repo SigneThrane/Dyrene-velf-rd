@@ -91,7 +91,7 @@
 
 	</header><!-- #masthead -->
 	<div id="donersticky">
-    <p>DONÉR NU</p>
+    <p><a href="/stot-dyrene">STØT</a></p>
 </div>
 	<?php cryout_absolute_top_hook(); ?>
 
