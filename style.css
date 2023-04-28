@@ -72,6 +72,7 @@ Updated: 2023-04-19 10:44:01
       margin: 1%;
       max-width: max-content;
       line-height: 2rem;
+      left: 15%;
    }
 
 /*FOOTER*/
@@ -176,6 +177,7 @@ p{
    background-size: 43%;
    background-position: center;
    background-attachment: fixed;
+   line-height: 3rem;
 }
 
 
