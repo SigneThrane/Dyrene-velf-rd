@@ -90,7 +90,9 @@
 		</div><!-- #header-image-main -->
 
 	</header><!-- #masthead -->
-
+	<div id="donersticky">
+    <p>DONÉR NU</p>
+</div>
 	<?php cryout_absolute_top_hook(); ?>
 
 	<div id="content" class="cryout">

@@ -12,7 +12,6 @@
 get_header();
 ?>
 <body>
-	
 		<div class="map">
 			<br>
 			<h3>Hvad kan du gøre?</h3>

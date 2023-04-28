@@ -223,5 +223,29 @@ p{
 }
 
 
+#donersticky
+{
+    position:fixed;
+    top:250px;
+    right: 0px;
+    padding:0px;
+    margin:0px;
+    width: 40px;
+    height:160px;
+    background:#F19B38;
+    z-index:2000;
+    border-radius: 3px 0px 0px 3px;
+    filter: drop-shadow(-5px 2px 7px #0000005e);
+}
 
+#donersticky p
+{
+    color: #fff;
+    -moz-transform:rotate(-90deg);
+    -ms-transform:rotate(-90deg);
+    -o-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    text-align: center;
+
+}
 
