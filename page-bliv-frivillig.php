@@ -61,7 +61,7 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
             CVR-nr: 39052024 <br>
             </p>
 
-            <img  width="20%" src="<?php the_field('logo'); ?>" alt="Logo" />
+            <img  width="80%" src="<?php the_field('logo'); ?>" alt="Logo" />
 
         </div>
 
