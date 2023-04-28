@@ -41,7 +41,8 @@ get_header(); ?>
 			<h3>Du kan støtte på følgende måde</h3>
 			 <br><br>
 			<div class="row"> 
-				<div class="col-md-3" id="op">
+                
+				<div class="col-sm-3" id="op">
                 <img  width="70%" src="<?php the_field('bliv_medlem'); ?>" alt="Katte der spiser" />
                 <br><br>
 					<h4>Bliv medlem</h4>
@@ -49,7 +50,7 @@ get_header(); ?>
                     kroner om året.</p>
 				</div>
 
-				<div class="col-md-3" id="op">
+				<div class="col-sm-3" id="op">
                 <img  width="70%" src="<?php the_field('bliv_frivillig'); ?>" alt="Katte der spiser" />
                 <br><br>
 				<h4>Bliv frivillig</h4>
@@ -57,7 +58,7 @@ get_header(); ?>
                     frivillige hænder.</p>
 				</div>
 
-				<div class="col-md-3" id="op">
+				<div class="col-sm-3" id="op">
                 <img  width="70%" src="<?php the_field('bliv_sponsor'); ?>" alt="Katte der spiser" />
                 <br><br>
 				<h4>Bliv sponsor</h4>
@@ -68,7 +69,7 @@ get_header(); ?>
 					</p>
 				</div>
 
-				<div class="col-md-3" id="op">
+				<div class="col-sm-3" id="op">
                 <img  width="70%" src="<?php the_field('giv_et_bidrag'); ?>" alt="Katte der spiser" />
                 <br><br>
 				<h4>Giv et bidrag</h4>
