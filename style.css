@@ -27,7 +27,6 @@ Updated: 2023-04-19 10:44:01
 }
 
 .oplys{
-   padding-left: 20%;
 }
  
 
@@ -159,6 +158,8 @@ h1, h2, h3, h4, h5{
    padding: 3rem;
 }
 
+h3 
+
 p{
    font-size: larger;
    font-family: itim;
@@ -258,3 +259,6 @@ p{
     line-height: normal;
 }
 
+.wrapper {
+   position: relative;
+}
