@@ -15,6 +15,21 @@ Updated: 2023-04-19 10:44:01
 
 @import url('https://fonts.googleapis.com/css2?family=Itim&family=Lato:wght@900&display=swap');
 
+/*Allover*/
+.wrapper {
+   position: relative;
+}
+
+/*Navigation*/
+nav#mobile-menu.burgermenu-active {
+   background-color: #36482C;
+   color: #F2E8DB;
+}
+
+ul.sub-menu {
+   background-color: #36482C !important;
+}
+
  /*Kontakt os*/
  .kontaktoplysninger{
     background-color: #5D7E4B;
@@ -93,10 +108,6 @@ Updated: 2023-04-19 10:44:01
 }
 
 /*HEADER*/
-nav#mobile-menu.burgermenu-active {
-   background-color: #36482C;
-   color: #F2E8DB;
-}
 
 #header-overlay {
 	position: absolute;
@@ -231,6 +242,27 @@ p{
    color: #36482C;
 }
 
+/* Anmeldelser slider*/
+span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+   color: #36482C;
+   background-color: #5D7E4B !important;
+}
+
+span.swiper-pagination-bullet {
+   color: #36482C;
+   background-color: #F19B38 !important;
+}
+
+div.swiper-button-next.testimonial-nav-arrow {
+   background-color: #F19B38 !important;
+   border: none !important;
+}
+
+div.swiper-button-prev.testimonial-nav-arrow {
+   background-color: #F19B38 !important;
+   border: none !important;
+}
+
 
 #donersticky
 {
@@ -259,6 +291,3 @@ p{
     line-height: normal;
 }
 
-.wrapper {
-   position: relative;
-}
