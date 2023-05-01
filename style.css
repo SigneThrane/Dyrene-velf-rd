@@ -53,7 +53,6 @@ ul.sub-menu {
  .sponsor{
     background-color: #F2E8DB;
     color: #36482C;
-    text-align: center;
  }
 
  .dyrene{
@@ -172,7 +171,6 @@ ul.sub-menu {
 .soger{
    background-color: #F2E8DB;
    color: #36482C;
-   text-align: center;
  
 }
 
@@ -195,7 +193,6 @@ ul.sub-menu {
 .blivsponsor{
    background-color: #F2E8DB;
    color: #36482C;
-   text-align: center;
 }
 
 
@@ -218,7 +215,7 @@ ul.sub-menu {
 h1, h2, h3, h4, h5{
    text-align: center;
    font-family: itim !important;
-   padding: 3rem;
+   margin: 4rem;
 }
 
 h3 
@@ -258,7 +255,6 @@ p{
 .hunde{
    background-color: #5D7E4B;
    color: #F7F7F6;
-   text-align: center;
    padding: 10%;
 }
 
@@ -281,7 +277,6 @@ p{
 .hvem{
    background-color: #5D7E4B;
    color: #F7F7F6;
-   text-align: center;
 }
 
 .anmeldelser{
