@@ -17,9 +17,8 @@ get_header(); ?>
 	<div class="menu"></div>
 
 <div class="hunde">
-	<br>
 	<h1>Hunde</h1>
-	<br>
+
 	<div class="row">
 <div id="white" class="col-md-6">
 	<h4>Naboens hund gør konstant. Hvad kan vi gøre?</h4>
@@ -59,11 +58,10 @@ Hvis man ser på de konkrete sager, der har været i <br> de senere år, er hove
                     <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(241, 155, 56);"></path>
                 </svg></div></div>
                 <div class="dyrene">
-			<br> <br>
 			<h3>Hjælp dyrene - støt en god sag</h3>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-			<br>
+			
 		</div>
 		</div>
 </body>

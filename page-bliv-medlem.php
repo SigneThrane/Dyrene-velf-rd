@@ -52,7 +52,7 @@ Vi takker dig for din støtte og ser frem til at have dig som en del af vores or
             </div>
             <div class="col-md-3">
                  <button>Donér</button>
-                 <br><br><br><br>
+              
             </div>
         </div>
 

@@ -16,7 +16,7 @@ get_header(); ?>
 
 <body>
         <div class="kontaktoplysninger" id="main">
-            <br>
+        
                 <h1 class="oplysninger">Anmeld en dyreværnssag her</h1><br>
         </div>       
         <div class="kontakt">
@@ -65,11 +65,11 @@ Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
                    
 
                 <div class="dyrene">
-			<br> <br>
+		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-			<br>
+		
 		</div>
                 
 </body>

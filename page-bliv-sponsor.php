@@ -49,7 +49,7 @@ Vi værdsætter alle vores sponsorer, og vi er taknemmelige for den vigtige roll
             </div>
             <div class="col-md-3">
                  <button>Donér</button>
-                 <br><br><br><br>
+             
             </div>
         </div>
            
@@ -61,11 +61,11 @@ Vi værdsætter alle vores sponsorer, og vi er taknemmelige for den vigtige roll
                 </div></div>
 
                 <div class="dyrene">
-			<br> <br>
+		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-			<br>
+			
 
         </div>
         </div>

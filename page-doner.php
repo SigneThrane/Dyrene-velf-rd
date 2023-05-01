@@ -128,11 +128,11 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
                 </div>
 
                 <div class="dyrene">
-			<br> <br>
+		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-			<br>
+			
 		</div>
            </div>
            </div>

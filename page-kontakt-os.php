@@ -21,7 +21,7 @@ get_header(); ?>
                    Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
 
                     Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</h5>
-<br><br><br><br>
+
 </div>
    
 
@@ -52,7 +52,7 @@ get_header(); ?>
         </div></div>
    
                 <div class="sponsor">
-                    <br><br><br>
+                  
                    <h1>Stort tak til vores sponsorer</h1>
                      <?php echo apply_shortcodes( '[sponsors style=slider arrows=0 image_size=50px slidestoscroll=3 slidestoshow=3 breakpoints=480;1;1|640;2;2]' ); ?>
                      
@@ -64,11 +64,11 @@ get_header(); ?>
                     </div>
 
                 <div class="dyrene">
-			<br> <br>
+		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-			<br>
+			
 		</div>
                 
 </body>
