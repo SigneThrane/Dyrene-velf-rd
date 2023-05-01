@@ -173,7 +173,7 @@ h3
 
 p{
    font-size: larger;
-   font-family: itim;
+   font-family: itim !important;
 }
 
 /*Forside*/

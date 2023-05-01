@@ -43,7 +43,7 @@ Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
                 </svg></div>
     </div>
         </div>
-   
+        </div>
                 <div class="sager">
                 <br> <br>
                     <div class="row">
@@ -63,7 +63,6 @@ Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
                         </div>
                     </div>
                    
-                </div>
 
                 <div class="dyrene">
 			<br> <br>
