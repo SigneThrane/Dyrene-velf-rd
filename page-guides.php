@@ -62,7 +62,7 @@ Hvis man ser på de konkrete sager, der har været i <br> de senere år, er hove
 			<br> <br>
 			<h3>Hjælp dyrene - støt en god sag</h3>
 			<button>DONÉR NU </button>
-			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
+			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>
 		</div>
