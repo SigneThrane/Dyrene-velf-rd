@@ -61,21 +61,26 @@ get_header(); ?>
                                               <h4>Bestyrelsen</h4>
                                                     <div class="row">
                                                             <div id="personale" class="col-md-4">
+                                                                <div id="personalecontainer">
                                                             <img  width="60%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
                                                             <h5>Majken E. Jensen</h5>
                                                             <p>Funktion <br>
                                                             Kompetencer <br>
                                                             Beskrivelse <br>
                                                             </p>
-
+                     </div>
                                                             </div>
                                                                   <div id="personale" class="col-md-4">
+                                                                  <div id="personalecontainer">
                                                                   <img  width="60%" src="<?php the_field('bestyrelsen_2'); ?>" alt="Logo" />
                                                                   </div>
+                     </div>
 
                                                                           <div id="personale" class="col-md-4">
+                                                                          <div id="personalecontainer">
                                                                           <img  width="60%" src="<?php the_field('bestyrelsen_3'); ?>" alt="Logo" />
                                                                           </div>
+                     </div>
                                                     </div>
 
                                                     <h4>Frivillige</h4>

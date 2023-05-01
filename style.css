@@ -194,7 +194,7 @@ h3
 
 p{
    font-size: larger;
-   font-family: itim;
+   font-family: itim !important;
 }
 
 /*Forside*/
@@ -312,6 +312,7 @@ div.swiper-button-prev.testimonial-nav-arrow {
     line-height: normal;
 }
 
+<<<<<<< HEAD
 
 /* Bliv medlem*/
 .medlem{
@@ -326,3 +327,23 @@ div.swiper-button-prev.testimonial-nav-arrow {
    color: #F7F7F6;
    text-align: center;
 }
+=======
+.row {
+ margin-left: 50px;
+ margin-right: 50px;
+}
+
+p {
+   margin-left: 50px;
+   margin-right: 50px;
+  }
+
+#personalecontainer {
+   background-color: #F2E8DB;
+   margin: 2%;
+   min-height: 500px;
+   color: #36482C;
+   border-radius: 30px;
+}
+
+>>>>>>> a385a4243958724d9031785db8433072667e1664
