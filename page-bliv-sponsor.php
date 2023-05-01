@@ -14,7 +14,7 @@ get_header();
 <body>
     <div class="blivsponsor">
         <h1>At blive sponsor</h1>
-        <p>At blive sponsor for Dyrenes Velfærd indebærer en unik mulighed for at bidrage til arbejdet med at hjælpe og beskytte dyr i nød. 
+        <p id="text">At blive sponsor for Dyrenes Velfærd indebærer en unik mulighed for at bidrage til arbejdet med at hjælpe og beskytte dyr i nød. 
             Som sponsor vil du blive repræsenteret på vores hjemmeside og på vores sociale medier, og din støtte vil blive anerkendt og 
             værdsat af vores organisation og vores følgere. 
 

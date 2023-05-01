@@ -19,7 +19,7 @@ get_header(); ?>
         <h1>Om dyrenes velfærd</h1>
         <div class="row">
             <div class="col-md-6">
-            <p>
+            <p id="text">
             Dyrenes Velfærd er en non-profit organisation med base i Christiansfeld. 
             Organisationen blev etableret i januar 2018 med det formål at håndhæve 
             lovgivningen og hjælpe alle de oversete og mishandlede dyr i hele Danmark. 
@@ -51,7 +51,7 @@ get_header(); ?>
                      </div>
                                 <div class="hvem">
                                    <h1>Hvem er vi?</h1>
-                                         <p>
+                                   <p id="text">
                                               Vi er en sammenslutning af frivillige med en fælles mission og vision. 
                                               Vores primære formål er at engagere os i kampen for dyrevelfærd og samtidig yde hjælp til mennesker, der kan have en bagvedliggende årsag til deres 
                                             handlinger. Vi er et team bestående af en mangfoldighed af faglige baggrunde, herunder socialrådgivere og 

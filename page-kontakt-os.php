@@ -17,10 +17,10 @@ get_header(); ?>
         <div class="kontaktoplysninger">
             <div class="container py-5 px-5">
                 <h1 class="oplysninger">Vores kontaktoplysninger</h1>
-                <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  
+                <h5 class="oplys"><p id="text">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  
                    Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 
 
-                    Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</h5>
+                    Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p></h5>
 
 </div>
    
@@ -29,7 +29,7 @@ get_header(); ?>
         <div class="row gy-5 gx-5">
         <div class="col-sm-4">
             <p>
-            Formand Jeanette Wulff Geerthsen 
+            Formand Jeanette Wulff Geerthsen</br>
 
             Dyrenes.velfaerd@gmail.com 
 

@@ -36,7 +36,7 @@ get_header(); ?>
 
     <h1>Valgfrit engangs-beløb</h1>
 
-<p>Vi er dybt taknemmelige for alle donationer, da det gør det muligt for os at yde 
+    <p id="text">Vi er dybt taknemmelige for alle donationer, da det gør det muligt for os at yde 
  den nødvendige hjælp, såsom dyrlægebehandlinger, medicin, og fødevarer til de dyr, der 
   har brug for det mest. Din donation kan gøre en væsentlig forskel i dyrenes liv og 
    hjælpe os med at fortsætte vores arbejde med at redde og tage vare på dyr i nød. 
@@ -49,7 +49,7 @@ Vi værdsætter din støtte dybt og takker dig for at hjælpe os med at sikre dy
 
 <h1>Månedlig abbonent</h1>
 
-<p>Hvis du ønsker at blive en månedlig abonnent og støtte vores arbejde for at sikre 
+<p id="text">Hvis du ønsker at blive en månedlig abonnent og støtte vores arbejde for at sikre 
  dyrenes velfærd, beder vi venligst om, at du udfylder vores kontaktformular 
   med dit fulde navn, adresse, postnummer, by og det ønskede månedlige donationbeløb. 
 
@@ -61,7 +61,7 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
 <h1>Donation af fysiske genstande</h1>
 <b>Har du lyst til at hjælpe de mishandlede dyr, men har du ikke mulighed for at donere penge? Intet problem! </b> 
 
-<p>Vi accepterer også donationer af fysiske genstande, såsom foder, tæpper, legetøj og 
+<p id="text">Vi accepterer også donationer af fysiske genstande, såsom foder, tæpper, legetøj og 
  andre nødvendigheder, som kan hjælpe dyrene i deres hverdag. Hvis du har noget, du 
   gerne vil donere, er du velkommen til at kontakte os via mail eller telefon, og vi vi 
   l arrangere en afhentning af genstandene på et tidspunkt og sted, der passer dig. Enhver donation, 

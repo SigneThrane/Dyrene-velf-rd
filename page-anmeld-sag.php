@@ -22,7 +22,7 @@ get_header(); ?>
         <div class="kontakt">
         <div class="row gy-5 gx-5">
         <div class="col-sm-4">
-           <p>Vær opmærksom på, at ved din detaljerede beskrivelse af anmeldelsen, kan vi være forberedt på vores besøg. <
+        <p id="text">Vær opmærksom på, at ved din detaljerede beskrivelse af anmeldelsen, kan vi være forberedt på vores besøg. <
 
 Vi giver altid tilbagemelding til dig efterfølgende, så det er vigtigt, at du skriver dit telefonnummer. 
 
