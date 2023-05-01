@@ -38,7 +38,6 @@ ul.sub-menu {
 
  .oplysninger{
    text-align: center;
-   padding: 2%;
 }
 
 .oplys{
@@ -61,8 +60,13 @@ ul.sub-menu {
    min-height: 20rem;
     background-color: #F19B38;
     color: #F2E8DB;
-    text-align: center;
+    text-align: center !important;
    line-height: 2rem;
+ }
+
+ #dyrene {
+   padding: 5%;
+   text-align: center !important;
  }
 
  /*Doner*/
@@ -84,8 +88,6 @@ ul.sub-menu {
    #op{
       background-color: #F7F7F6;
       border-radius: 20%;
-      padding: 1%;
-      margin: 1%;
       max-width: max-content;
       line-height: 2rem;
       left: 15%;
@@ -349,6 +351,7 @@ div.swiper-button-prev.testimonial-nav-arrow {
 p {
    margin-left: 50px;
    margin-right: 50px;
+   text-align: justify;
   }
 
 #personalecontainer {

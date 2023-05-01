@@ -68,8 +68,8 @@ Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
-			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-		
+			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
+			<br>
 		</div>
                 
 </body>
