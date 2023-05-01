@@ -207,7 +207,7 @@ ul.sub-menu {
 
 
 
-/*Font size*/
+/*Fonts*/
 
 .entry-title {
    font-family: 'Lato', sans-serif !important;
@@ -220,7 +220,19 @@ h1, h2, h3, h4, h5{
    padding: 3rem;
 }
 
-h3 
+p {
+   text-align: justify;
+   font-family: itim;
+   font-size: larger;
+  }
+
+  #text{
+   margin-left: 100px;
+   margin-right: 100px;
+   text-align: justify;
+   font-family: itim;
+   font-size: larger;
+  }
 
 p{
    font-size: larger;
@@ -346,12 +358,6 @@ div.swiper-button-prev.testimonial-nav-arrow {
  margin-left: 50px;
  margin-right: 50px;
 }
-
-p {
-   margin-left: 50px;
-   margin-right: 50px;
-   text-align: justify;
-  }
 
 #personalecontainer {
    background-color: #F2E8DB;
