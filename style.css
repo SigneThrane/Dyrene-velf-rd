@@ -101,6 +101,20 @@ ul.sub-menu {
       text-align: center;
     }
 
+    /* Bliv medlem*/
+.medlem{
+   background-color: #F2E8DB;
+   color: #36482C;
+   text-align: center;
+}
+
+.muligheder{
+   background-color: #5D7E4B;
+   color: #F2E8DB;
+   text-align: center;
+}
+
+
 
 
 /*FOOTER*/
@@ -312,22 +326,6 @@ div.swiper-button-prev.testimonial-nav-arrow {
     line-height: normal;
 }
 
-<<<<<<< HEAD
-
-/* Bliv medlem*/
-.medlem{
-   background-color: #F2E8DB;
-   color: #36482C;
-   text-align: center;
-}
-
-.muligheder
-{
-   background-color: #5D7E4B;
-   color: #F7F7F6;
-   text-align: center;
-}
-=======
 .row {
  margin-left: 50px;
  margin-right: 50px;
@@ -346,4 +344,6 @@ p {
    border-radius: 30px;
 }
 
->>>>>>> a385a4243958724d9031785db8433072667e1664
+
+
+
