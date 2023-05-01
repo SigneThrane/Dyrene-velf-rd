@@ -13,63 +13,62 @@
 
 get_header(); ?>
 <body>
-<main id="main" class="main">
-    <div class="soger">
-<div class="container overflow-hidden">
-        <br>
-        <h1>Vi søger aktivt</h1>
+<div class="soger">
+    <h1>Bliv en del af fællesskabet</h1>
+    <p>Vi er altid på udkig efter frivillige, da vi modtager en stor mængde henvendelser angående dyr i nød. <br>
+        Ønsker du at bidrage til vores sag og besidder du den nødvendige robusthed til at håndtere de udfordrende situationer, <br>
+        vi ofte står overfor som dyre reddere? <br><br>
 
-            <p>
-            Vi har altid brug for frivillige hænder, da vi får rigtig mange henvendelser om dyr i nød.
+En kærlighed til dyr er afgørende, da det er hjertet i vores arbejde. Du vil også skulle vise respekt og empati over for de mennesker, <br>
+vi samarbejder med, da de kan have mange forskellige grunde til ikke at kunne tage sig af deres dyr. <br><br>
 
-Er du den robuste type, som kan tåle at se lidt af hvert, som vi kommer ud til i vores sager og har tiden til at køre med som dyreredder?
+Hvis du ønsker at blive frivillig hos os, må du meget gerne sende os en beskrivelse af dig selv, via vores kontaktformular længere nede på siden. <br>
+Beskrivelsen må meget gerne indeholde navn, adresse, beskrivelse af dig som person, samt en beskrivelse af hvad du vil opnå ved at være frivillig hos os. <br>
+Derudover vil vi gerne bede om en kopi af din straffeattest, af sikkerhedsmæssige årsager. <br>
+Efter modtagelse af din mail, vil vi kontakte dig hurtigst muligt. <br><br>
 
-Dit hjerte skal være fuld af kærlighed til dyr.
+Hvis du har yderligere spørgsmål, er du velkommen til at kontakte os via kontaktformularen eller telefon.</p>
 
-Du skal kunne håndtere, at de mennesker vi kommer ud til, kan have mange grunde til ikke at kunne passe deres dyr, derfor er det en selvfølgelighed, at du besidder respekt og empati overfor disse mennesker.
-Vi søger lige nu plejefamilier til dyr vi tager ind. 
+<button>Kontakt</button>
 
-Du skal have en ren straffeattest. 
-
-Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil vende tilbage hurtigst muligt. Ved spørgsmål kan vi kontaktes via kontaktformularen eller telefon. 
-            </p>
-        
-</div>
-
-        <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 64px;">
+<div class="wrapper">
+    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 69px;">
                     <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(93, 126, 75);"></path>
                 </svg></div>
 
-                <div class="kontakt">
-                <div class="container overflow-hidden">
-                    <h1>Kontakt</h1>
-                 
-                    <p>Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>
-
-Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
-
-Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p>
-        <div class="row gy-5 gx-5">
-        <div class="col-sm-4">
-            <p>
-            Formand Jeanette Wulff Geerthsen  <br>
-
-            Dyrenes.velfaerd@gmail.com <br>
-
-            <p><i id="kontakticon" class="fas fa-phone me-3"></i> + 45 61 69 85 48</p>
-          
-            CVR-nr: 39052024 <br>
-            </p>
-
-            <img  width="80%" src="<?php the_field('logo'); ?>" alt="Logo" />
-
-        </div>
-
-                <div class="col-sm-8">
-                <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?>
-                </div>
-        </div>
+<div class="hjertet">
+    <h1>Kærlighed til dyrene, er hjertet i vores arbejde</h1>
+    <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6"></div>
+        <div class="col-md-3"></div>
     </div>
+
+
+
+                <div class="wrapper">
+    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 69px;">
+                    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(93, 126, 75);"></path>
+                </svg></div>
+
+    <div class="muligheder">
+        <h1>Du kan også støtte på følgende måder</h1>
+        <div class="row">
+            <div class="col-md-3">
+                   <button>Bliv medlem</button>
+            </div>
+            <div class="col-md-3">
+            <button>Bliv frivillig</button>
+            </div>
+            <div class="col-md-3">
+                     <button>Bliv sponsor</button>
+            </div>
+            <div class="col-md-3">
+                 <button>Donér</button>
+                 <br><br><br><br>
+            </div>
+        </div>
+           
                     <div class="wrapper">
                     <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(109% + 1.3px); height: 67px; transform: rotateY(180deg);">
                     <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(241, 155, 56);"></path>
@@ -83,8 +82,11 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
-		</div>
+
         </div>
+        </div>
+        
+</div>
 </body>
 
 

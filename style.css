@@ -65,7 +65,7 @@ ul.sub-menu {
    line-height: 2rem;
  }
 
- /*Støt dyrene*/
+ /*Doner*/
 
    .foder{
       background-color: #5D7E4B;
@@ -90,6 +90,18 @@ ul.sub-menu {
       line-height: 2rem;
       left: 15%;
    }
+
+   b{
+     font-size: larger;
+   }
+
+   .hest{
+      background-color: #F2E8DB;
+      color:  #36482C;
+      text-align: center;
+    }
+
+
 
 /*FOOTER*/
    .footer{
@@ -147,6 +159,15 @@ ul.sub-menu {
    text-align: center;
  
 }
+
+.hjertet{
+   background-color: #5D7E4B;
+   color: #F7F7F6;
+   text-align: center;
+ 
+}
+
+
 
 /*Anmeld sag*/
 .sager{
@@ -291,3 +312,17 @@ div.swiper-button-prev.testimonial-nav-arrow {
     line-height: normal;
 }
 
+
+/* Bliv medlem*/
+.medlem{
+   background-color: #F2E8DB;
+   color: #36482C;
+   text-align: center;
+}
+
+.muligheder
+{
+   background-color: #5D7E4B;
+   color: #F7F7F6;
+   text-align: center;
+}
