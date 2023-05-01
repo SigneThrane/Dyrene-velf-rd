@@ -17,7 +17,7 @@ get_header(); ?>
     <div class="soger">
 <div class="container overflow-hidden">
         <br>
-        <h3>Vi søger aktivt</h3>
+        <h1>Vi søger aktivt</h1>
 
             <p>
             Vi har altid brug for frivillige hænder, da vi får rigtig mange henvendelser om dyr i nød.
@@ -42,7 +42,7 @@ Du kan skrive lidt om dig selv til os på kontaktformularen herunder, og vi vil 
 
                 <div class="kontakt">
                 <div class="container overflow-hidden">
-                    <h3>Kontakt</h3>
+                    <h1>Kontakt</h1>
                  
                     <p>Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>
 
@@ -79,7 +79,7 @@ Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 time
 
                 <div class="dyrene">
 			<br> <br>
-			<h3>Hjælp dyrene - støt en god sag</h3>
+			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>

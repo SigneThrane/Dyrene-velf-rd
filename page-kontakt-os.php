@@ -16,7 +16,7 @@ get_header(); ?>
 <body>
         <div class="kontaktoplysninger">
             <div class="container py-5 px-5">
-                <h3 class="oplysninger">Vores kontaktoplysninger</h3>
+                <h1 class="oplysninger">Vores kontaktoplysninger</h1>
                 <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>
                    Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
 
@@ -53,7 +53,7 @@ get_header(); ?>
    
                 <div class="sponsor">
                     <br><br><br>
-                   <h3>Hjælp dyrene - støt en god sag</h3>
+                   <h1>Stort tak til vores sponsorer</h1>
                      <?php echo apply_shortcodes( '[sponsors style=slider arrows=0 image_size=50px slidestoscroll=3 slidestoshow=3 breakpoints=480;1;1|640;2;2]' ); ?>
                      
                      <div class="wrapper">
@@ -65,7 +65,7 @@ get_header(); ?>
 
                 <div class="dyrene">
 			<br> <br>
-			<h3>Hjælp dyrene - støt en god sag</h3>
+			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>

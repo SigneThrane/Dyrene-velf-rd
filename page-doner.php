@@ -15,7 +15,7 @@ get_header(); ?>
 
 <body>
     <div class="stot">
-    <h3>Donationer modtages med glæde</h3>
+    <h1>Donationer modtages med glæde</h1>
     <div class="row">
         <div class="col-md-6">
             <p>
@@ -40,7 +40,7 @@ get_header(); ?>
     </div>
                 <div class="map">
 			<br>
-			<h3>Du kan støtte på følgende måde</h3>
+			<h1>Du kan støtte på følgende måde</h1>
 			 <br><br>
 			<div class="row"> 
                 
@@ -90,7 +90,7 @@ get_header(); ?>
                     <div class="row">
                         <div class="col-md-6">
                        <br><br><br>
-                        <h3>Donér foder / strøelse / legetøj </h3>
+                        <h1>Donér foder / strøelse / legetøj </h1>
                         <h5>Kan din kat ikke lide det kattegrus du har købt? <br>
                             Eller vil din hund ikke spise dens tørfoder?  <br>
                             <br>
@@ -112,7 +112,7 @@ get_header(); ?>
 
                 <div class="dyrene">
 			<br> <br>
-			<h3>Hjælp dyrene - støt en god sag</h3>
+			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
 			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>

@@ -16,7 +16,7 @@ get_header(); ?>
 <body>
 <div class="om">
 <main id="main" class="main">
-        <h3>Om dyrenes velfærd</h3>
+        <h1>Om dyrenes velfærd</h1>
         <div class="row">
             <div class="col-md-6">
             <p>
@@ -50,7 +50,7 @@ get_header(); ?>
                      </div>
                      </div>
                                 <div class="hvem">
-                                   <h3>Hvem er vi?</h3>
+                                   <h1>Hvem er vi?</h1>
                                          <p>
                                               Vi er en sammenslutning af frivillige med en fælles mission og vision. 
                                               Vores primære formål er at engagere os i kampen for dyrevelfærd og samtidig yde hjælp til mennesker, der kan have en bagvedliggende årsag til deres 
@@ -91,7 +91,7 @@ get_header(); ?>
                                                   </svg></div>
                                                 </div>
                                                                <div class="anmeldelser">
-                                                                  <h3>Anmeldelser</h3>
+                                                                  <h1>Anmeldelser</h1>
                                                                      <p>Anmeldelserne er taget fra vores facebook side</p> <br>
                                                                      <?php echo do_shortcode('[sp_testimonial id="90"]');?>
                                                             
@@ -103,7 +103,7 @@ get_header(); ?>
                     </div>
                     
                 <div class="dyrene">
-			            <h3>Hjælp dyrene - støt en god sag</h3>
+			            <h1>Hjælp dyrene - støt en god sag</h1>
 			                <button>DONÉR NU </button>
 			                    <p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p> <br>
 			    </div>

@@ -18,7 +18,7 @@ get_header(); ?>
 
 <div class="hunde">
 	<br>
-	<h3>Hunde</h3>
+	<h1>Hunde</h1>
 	<br>
 	<div class="row">
 <div id="white" class="col-md-6">
