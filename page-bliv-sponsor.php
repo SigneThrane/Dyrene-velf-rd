@@ -11,7 +11,66 @@
  */
 get_header();
 ?>
+<body>
+    <div class="blivsponsor">
+        <h1>At blive sponsor</h1>
+        <p>At blive sponsor for Dyrenes Velfærd indebærer en unik mulighed for at bidrage til arbejdet med at hjælpe og beskytte dyr i nød. <br>
+            Som sponsor vil du blive repræsenteret på vores hjemmeside og på vores sociale medier, og din støtte vil blive anerkendt og <br>
+            værdsat af vores organisation og vores følgere. <br><br>
 
+Som sponsor har du mulighed for at støtte os med faste og månedlige donationer, og du kan også donere fysiske produkter, som vil blive brugt <br>
+til at hjælpe de dyr, vi tager os af. Dette kan inkludere alt fra mad, tæpper og legetøj til bure, medicin og andre nødvendige forsyninger. <br>
+Vi tager imod overskudsvarer fra forretninger og andre fysiske donationer. <br><br>
+
+Vi er altid glade for at indgå i specialaftaler med vores sponsorer, og vi opfordrer dig til at kontakte os for at diskutere dine muligheder for <br>
+at støtte os. Du kan kontakte os via vores kontaktformular, eller via telefon. <br><br>
+
+Vi værdsætter alle vores sponsorer, og vi er taknemmelige for den vigtige rolle, de spiller i at støtte vores arbejde for at hjælpe og beskytte dyr i nød.</p>
+
+<button>Kontakt</button>
+
+<h1>Stort tak til vores sponsorer</h1>
+<div class="wrapper">
+    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 69px;">
+                    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(93, 126, 75);"></path>
+                </svg></div>
+
+    <div class="muligheder">
+        <h1>Du kan også støtte på følgende måder</h1>
+        <div class="row">
+            <div class="col-md-3">
+                   <button>Bliv medlem</button>
+            </div>
+            <div class="col-md-3">
+            <button>Bliv frivillig</button>
+            </div>
+            <div class="col-md-3">
+                     <button>Bliv sponsor</button>
+            </div>
+            <div class="col-md-3">
+                 <button>Donér</button>
+                 <br><br><br><br>
+            </div>
+        </div>
+           
+                    <div class="wrapper">
+                    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(109% + 1.3px); height: 67px; transform: rotateY(180deg);">
+                    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(241, 155, 56);"></path>
+                </svg></div>
+                    
+                </div></div>
+
+                <div class="dyrene">
+			<br> <br>
+			<h1>Hjælp dyrene - støt en god sag</h1>
+			<button>DONÉR NU </button>
+			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
+			<br>
+
+        </div>
+        </div>
+    </div>
+</body>
 
 <?php
 get_footer();
