@@ -301,3 +301,11 @@ p {
    margin-right: 50px;
   }
 
+#personalecontainer {
+   background-color: #F2E8DB;
+   margin: 2%;
+   min-height: 500px;
+   color: #36482C;
+   border-radius: 30px;
+}
+
