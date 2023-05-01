@@ -15,7 +15,7 @@ get_header(); ?>
 <body>
 <div class="soger">
     <h1>Bliv en del af fællesskabet</h1>
-    <p>Vi er altid på udkig efter frivillige, da vi modtager en stor mængde henvendelser angående dyr i nød. 
+    <p id="text">Vi er altid på udkig efter frivillige, da vi modtager en stor mængde henvendelser angående dyr i nød. 
         Ønsker du at bidrage til vores sag og besidder du den nødvendige robusthed til at håndtere de udfordrende situationer, 
         vi ofte står overfor som dyre reddere? 
 
@@ -57,7 +57,7 @@ Hvis du har yderligere spørgsmål, er du velkommen til at kontakte os via konta
 
     <div class="rolle">
         <h1>Din rolle som frivillig</h1>
-        <p>At være frivillig hos Dyrenes Velfærd indebærer at være en del af en organisation, der arbejder for at forbedre dyrevelfærden i samfundet. 
+        <p id="text">At være frivillig hos Dyrenes Velfærd indebærer at være en del af en organisation, der arbejder for at forbedre dyrevelfærden i samfundet. 
 
 Som frivillig kan man blive involveret i en række forskellige opgaver, herunder at deltage i sager, hvor man tager billeder og hjælper med at træffe 
 beslutninger omkring dyrenes trivsel. Man kan også være med til at pleje og passe på de dyr, der er blevet reddet, og sørge for, at de får den nødvendige br behandling og omsorg. 
