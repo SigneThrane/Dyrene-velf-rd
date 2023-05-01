@@ -14,16 +14,16 @@ get_header();
 <body>
     <div class="blivsponsor">
         <h1>At blive sponsor</h1>
-        <p>At blive sponsor for Dyrenes Velfærd indebærer en unik mulighed for at bidrage til arbejdet med at hjælpe og beskytte dyr i nød. <br>
-            Som sponsor vil du blive repræsenteret på vores hjemmeside og på vores sociale medier, og din støtte vil blive anerkendt og <br>
-            værdsat af vores organisation og vores følgere. <br><br>
+        <p>At blive sponsor for Dyrenes Velfærd indebærer en unik mulighed for at bidrage til arbejdet med at hjælpe og beskytte dyr i nød. 
+            Som sponsor vil du blive repræsenteret på vores hjemmeside og på vores sociale medier, og din støtte vil blive anerkendt og 
+            værdsat af vores organisation og vores følgere. 
 
-Som sponsor har du mulighed for at støtte os med faste og månedlige donationer, og du kan også donere fysiske produkter, som vil blive brugt <br>
-til at hjælpe de dyr, vi tager os af. Dette kan inkludere alt fra mad, tæpper og legetøj til bure, medicin og andre nødvendige forsyninger. <br>
-Vi tager imod overskudsvarer fra forretninger og andre fysiske donationer. <br><br>
+Som sponsor har du mulighed for at støtte os med faste og månedlige donationer, og du kan også donere fysiske produkter, som vil blive brugt 
+til at hjælpe de dyr, vi tager os af. Dette kan inkludere alt fra mad, tæpper og legetøj til bure, medicin og andre nødvendige forsyninger. 
+Vi tager imod overskudsvarer fra forretninger og andre fysiske donationer. 
 
-Vi er altid glade for at indgå i specialaftaler med vores sponsorer, og vi opfordrer dig til at kontakte os for at diskutere dine muligheder for <br>
-at støtte os. Du kan kontakte os via vores kontaktformular, eller via telefon. <br><br>
+Vi er altid glade for at indgå i specialaftaler med vores sponsorer, og vi opfordrer dig til at kontakte os for at diskutere dine muligheder for 
+at støtte os. Du kan kontakte os via vores kontaktformular, eller via telefon. 
 
 Vi værdsætter alle vores sponsorer, og vi er taknemmelige for den vigtige rolle, de spiller i at støtte vores arbejde for at hjælpe og beskytte dyr i nød.</p>
 

@@ -17,16 +17,16 @@ get_header(); ?>
 <body>
         <div class="kontaktoplysninger" id="main">
         
-                <h1 class="oplysninger">Anmeld en dyreværnssag her</h1><br>
+                <h1 class="oplysninger">Anmeld en dyreværnssag her</h1>
         </div>       
         <div class="kontakt">
         <div class="row gy-5 gx-5">
         <div class="col-sm-4">
-           <p>Vær opmærksom på, at ved din detaljerede beskrivelse af anmeldelsen, kan vi være forberedt på vores besøg. <br>
+           <p>Vær opmærksom på, at ved din detaljerede beskrivelse af anmeldelsen, kan vi være forberedt på vores besøg. <
 
-Vi giver altid tilbagemelding til dig efterfølgende, så det er vigtigt, at du skriver dit telefonnummer. <br>
+Vi giver altid tilbagemelding til dig efterfølgende, så det er vigtigt, at du skriver dit telefonnummer. 
 
-Husk at du altid vil stå som anonym i offentligheden. <br>
+Husk at du altid vil stå som anonym i offentligheden. 
 
 Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
 

@@ -32,30 +32,30 @@ get_header();
 			<div class="row">
 				<div class="col-md-3" id="op">
 					<h4>Anmeld en sag</h4>
-					<p><a href="www.google.com">Vi besøger stedet for <br> 
-						at få forbedret dyrenes <br>
+					<p><a href="www.google.com">Vi besøger stedet for 
+						at få forbedret dyrenes 
 						forhold.</a></p>
 					
 				</div>
 
 				<div class="col-md-3" id="op">
 				<h4>Meld dig ind</h4>
-					<p>Det koster kun 100 <br>
+					<p>Det koster kun 100 
 					kroner om året.</p>
 				</div>
 
 				<div class="col-md-3" id="op">
 				<h4>Bliv sponsor</h4>
 					<p>
-					Som sponsor kan du <br>
-					være med <br>
+					Som sponsor kan du 
+					være med 
  					til at gøre en forskel.
 					</p>
 				</div>
 
 				<div class="col-md-3" id="op">
 				<h4>Donere</h4>
-					<p>Beløbet går ubeskåret <br> 
+					<p>Beløbet går ubeskåret 
 						til dyrene.</p>
 				</div>
 			</div>
@@ -96,7 +96,7 @@ get_header();
         </div>
 					<div class="animation">
 						<br> <h1>Hjælp os med at samle hestekræfter</h1> 
-						<p>Donér 20 kroner og gør en kæmpe forskel for alle Danmarks oversete dyr <br> <br>
+						<p>Donér 20 kroner og gør en kæmpe forskel for alle Danmarks oversete dyr 
 							Sammen er vi stærkere, hjælp os med at samle kræfter</p>
 				
 		

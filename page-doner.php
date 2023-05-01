@@ -17,8 +17,8 @@ get_header(); ?>
     <div class="hest">
         <h1>Hjælp os med at samle hestekræfter</h1>
         <img  width="70%" src="<?php the_field('hestekraft'); ?>" alt="Donation oversigt" />
-        <p id="grøn">"Vores hestekræfter stammer fra vores fælles engagement i at hjælpe dyr i nød. <br>
-         Din donation er med til at øge vores styrke og vores evne til at redde flere dyreliv. <br>
+        <p id="grøn">"Vores hestekræfter stammer fra vores fælles engagement i at hjælpe dyr i nød. 
+         Din donation er med til at øge vores styrke og vores evne til at redde flere dyreliv. 
           Støt vores mission og vær med til at gøre en forskel."</p>
         
             <div class="qrkode"></div>
@@ -32,39 +32,39 @@ get_header(); ?>
     </div>
     <div class="stot">
     <h1>Donationer modtages med glæde</h1>
-    <b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter <br> samt fysiske produkter. Læs mere om de enkelte muligheder, <br> herunder:</b>
+    <b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter > samt fysiske produkter. Læs mere om de enkelte muligheder, herunder:</b>
 
     <h1>Valgfrit engangs-beløb</h1>
 
-<p>Vi er dybt taknemmelige for alle donationer, da det gør det muligt for os at yde <br>
- den nødvendige hjælp, såsom dyrlægebehandlinger, medicin, og fødevarer til de dyr, der <br>
-  har brug for det mest. Din donation kan gøre en væsentlig forskel i dyrenes liv og <br>
-   hjælpe os med at fortsætte vores arbejde med at redde og tage vare på dyr i nød. <br>
-<br><br>
-Vi værdsætter din støtte dybt og takker dig for at hjælpe os med at sikre dyrenes velfærd. <br>
- Hvis du ønsker at holde dig opdateret med vores arbejde og resultater, kan du følge os på vores Facebook-side. <br>
+<p>Vi er dybt taknemmelige for alle donationer, da det gør det muligt for os at yde 
+ den nødvendige hjælp, såsom dyrlægebehandlinger, medicin, og fødevarer til de dyr, der 
+  har brug for det mest. Din donation kan gøre en væsentlig forskel i dyrenes liv og 
+   hjælpe os med at fortsætte vores arbejde med at redde og tage vare på dyr i nød. 
+
+Vi værdsætter din støtte dybt og takker dig for at hjælpe os med at sikre dyrenes velfærd. 
+ Hvis du ønsker at holde dig opdateret med vores arbejde og resultater, kan du følge os på vores Facebook-side. 
   Tusind tak for din hjælp!</p>
 
-<b> Hver donation, uanset størrelse, er af stor betydning og hjælper os med at opretholde <br> vores vigtige br arbejde for dyrenes velfærd.</b>
+<b> Hver donation, uanset størrelse, er af stor betydning og hjælper os med at opretholde  vores vigtige br arbejde for dyrenes velfærd.</b>
 
 <h1>Månedlig abbonent</h1>
 
-<p>Hvis du ønsker at blive en månedlig abonnent og støtte vores arbejde for at sikre <br>
- dyrenes velfærd, beder vi venligst om, at du udfylder vores kontaktformular <br>
-  med dit fulde navn, adresse, postnummer, by og det ønskede månedlige donationbeløb. <br>
+<p>Hvis du ønsker at blive en månedlig abonnent og støtte vores arbejde for at sikre 
+ dyrenes velfærd, beder vi venligst om, at du udfylder vores kontaktformular 
+  med dit fulde navn, adresse, postnummer, by og det ønskede månedlige donationbeløb. 
 
-Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hjælper os <br>
+Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hjælper os 
  med at fortsætte vores arbejde. Bemærk venligst, at du til enhver tid kan afmelde dig abonnementet, ved at kontakte os. </p>
 
 <button>Kontakt</button>
 
 <h1>Donation af fysiske genstande</h1>
-<b>Har du lyst til at hjælpe de mishandlede dyr, men har du ikke mulighed for at donere penge? <br> Intet problem! </b> <br>
+<b>Har du lyst til at hjælpe de mishandlede dyr, men har du ikke mulighed for at donere penge? Intet problem! </b> 
 
-<p>Vi accepterer også donationer af fysiske genstande, såsom foder, tæpper, legetøj og <br>
- andre nødvendigheder, som kan hjælpe dyrene i deres hverdag. Hvis du har noget, du <br>
-  gerne vil donere, er du velkommen til at kontakte os via mail eller telefon, og vi vi <br>
-  l arrangere en afhentning af genstandene på et tidspunkt og sted, der passer dig. Enhver donation, <br>
+<p>Vi accepterer også donationer af fysiske genstande, såsom foder, tæpper, legetøj og 
+ andre nødvendigheder, som kan hjælpe dyrene i deres hverdag. Hvis du har noget, du 
+  gerne vil donere, er du velkommen til at kontakte os via mail eller telefon, og vi vi 
+  l arrangere en afhentning af genstandene på et tidspunkt og sted, der passer dig. Enhver donation, 
    stor eller lille, betyder noget for de mishandlede dyr, og vi er taknemmelige for enhver hjælp, vi kan få."</p> 
    <img  width="25%" src="<?php the_field('kattemad'); ?>" alt="Donation af kattemad" />
 
@@ -83,27 +83,27 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
 			<div class="row"> 
                 
 				<div class="col-sm-3" id="op">
-                <img  width="80%" src="<?php the_field('bliv_medlem'); ?>" alt="Katte der spiser" />
+                <img  width="70%" src="<?php the_field('bliv_medlem'); ?>" alt="Katte der spiser" />
            
 					<h4>Bliv medlem</h4>
-					<p>Det koster kun 100 <br>
+					<p>Det koster kun 100 
                     kroner om året.</p>
 				</div>
 
 				<div class="col-sm-3" id="op">
-                <img  width="80%" src="<?php the_field('bliv_frivillig'); ?>" alt="Katte der spiser" />
+                <img  width="70%" src="<?php the_field('bliv_frivillig'); ?>" alt="Katte der spiser" />
            
 				<h4>Bliv frivillig</h4>
-					<p>Vi har altid brug for <br>
+					<p>Vi har altid brug for
                     frivillige hænder.</p>
 				</div>
 
 				<div class="col-sm-3" id="op">
-                <img  width="80%" src="<?php the_field('bliv_sponsor'); ?>" alt="Katte der spiser" />
+                <img  width="70%" src="<?php the_field('bliv_sponsor'); ?>" alt="Katte der spiser" />
              
 				<h4>Bliv sponsor</h4>
 					<p>
-					Som sponsor kan du <br>
+					Som sponsor kan du 
                     være med 
                     til at gøre en forskel.
 					</p>
@@ -113,7 +113,7 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
                 <img  width="80%" src="<?php the_field('giv_et_bidrag'); ?>" alt="Katte der spiser" />
        
 				<h4>Giv et bidrag</h4>
-					<p>Beløbet går ubeskåret <br> 
+					<p>Beløbet går ubeskåret 
 						til dyrene.</p>
 				</div>
 			</div>

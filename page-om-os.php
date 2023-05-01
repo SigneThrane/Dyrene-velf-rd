@@ -20,22 +20,22 @@ get_header(); ?>
         <div class="row">
             <div class="col-md-6">
             <p>
-            Dyrenes Velfærd er en non-profit organisation med base i Christiansfeld. <br> 
-            Organisationen blev etableret i januar 2018 med det formål at håndhæve <br>
-            lovgivningen og hjælpe alle de oversete og mishandlede dyr i hele Danmark.  <br><br>
+            Dyrenes Velfærd er en non-profit organisation med base i Christiansfeld. 
+            Organisationen blev etableret i januar 2018 med det formål at håndhæve 
+            lovgivningen og hjælpe alle de oversete og mishandlede dyr i hele Danmark. 
 
-            Vores informationsindsamling om misrøgt sker gennem vores kontaktpersoner, <br>
-            anonyme anmeldelser og samarbejdspartnere spredt ud over landet. Herefter træder <br>
-             vores pålidelige og kompetente team af frivillige i aktion, hvor vi nøje planlægger, <br>
-             hvordan sagen skal håndteres. Vores primære fokus er altid dyrene, men vi <br>
-            prioriterer også at støtte og vejlede ejere af mishandlede dyr, hvis de ikke længere har <br>
-            evnen til at tage vare på deres kæledyr. <br><br>
+            Vores informationsindsamling om misrøgt sker gennem vores kontaktpersoner, 
+            anonyme anmeldelser og samarbejdspartnere spredt ud over landet. Herefter træder 
+             vores pålidelige og kompetente team af frivillige i aktion, hvor vi nøje planlægger, 
+             hvordan sagen skal håndteres. Vores primære fokus er altid dyrene, men vi 
+            prioriterer også at støtte og vejlede ejere af mishandlede dyr, hvis de ikke længere har 
+            evnen til at tage vare på deres kæledyr. 
 
-            Vi har en bred interesse for alle dyreværnssager, uanset art, størrelse <br>
-            eller betydning, og vi arbejder dedikeret på tværs af hele Danmark. <br><br>
+            Vi har en bred interesse for alle dyreværnssager, uanset art, størrelse 
+            eller betydning, og vi arbejder dedikeret på tværs af hele Danmark. 
 
-            Hvis I ønsker at følge med i vores igangværende og tidligere dyreværnssager, er I <br>
-            mere end velkomne til at følge os på Facebook, hvor vi løbende deler opdateringer om <br>
+            Hvis I ønsker at følge med i vores igangværende og tidligere dyreværnssager, er I 
+            mere end velkomne til at følge os på Facebook, hvor vi løbende deler opdateringer om 
             vores arbejde.
             </p>
             </div>   
@@ -64,9 +64,9 @@ get_header(); ?>
                                                                 <div id="personalecontainer">
                                                             <img  width="60%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
                                                             <h5>Majken E. Jensen</h5>
-                                                            <p>Funktion <br>
-                                                            Kompetencer <br>
-                                                            Beskrivelse <br>
+                                                            <p>Funktion 
+                                                            Kompetencer 
+                                                            Beskrivelse 
                                                             </p>
                      </div>
                                                             </div>
@@ -89,9 +89,9 @@ get_header(); ?>
                                                                 <div id="personalecontainer">
                                                             <img  width="60%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
                                                             <h5>Majken E. Jensen</h5>
-                                                            <p>Funktion <br>
-                                                            Kompetencer <br>
-                                                            Beskrivelse <br>
+                                                            <p>Funktion 
+                                                            Kompetencer 
+                                                            Beskrivelse 
                                                             </p>
                      </div>
                                                             </div>
@@ -115,7 +115,7 @@ get_header(); ?>
                                                 </div>
                                                                <div class="anmeldelser">
                                                                   <h1>Anmeldelser</h1>
-                                                                     <p>Anmeldelserne er taget fra vores facebook side</p> <br>
+                                                                     <p>Anmeldelserne er taget fra vores facebook side</p> 
                                                                      <?php echo do_shortcode('[sp_testimonial id="90"]');?>
                                                             
 
@@ -128,7 +128,7 @@ get_header(); ?>
                 <div class="dyrene">
 			            <h1>Hjælp dyrene - støt en god sag</h1>
 			                <button>DONÉR NU </button>
-                            <p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p> <br>
+                            <p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p> 
 			    </div>
                    </div>
                       </div>

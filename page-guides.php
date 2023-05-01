@@ -22,32 +22,32 @@ get_header(); ?>
 	<div class="row">
 <div id="white" class="col-md-6">
 	<h4>Naboens hund gør konstant. Hvad kan vi gøre?</h4>
-<p>Der er ikke faste retningslinjer for, hvor grelt det <br> skal være, før hundeejeren får et påbud. <br> Men praksis viser, at der skal en del til. <br><br>
+<p>Der er ikke faste retningslinjer for, hvor grelt det  skal være, før hundeejeren får et påbud. Men praksis viser, at der skal en del til.
 
-Hvis man ser på de konkrete sager, der har været i <br> de senere år, er hovedreglen, at der skal være tale <br> om vedvarende gøen eller...</p>
+Hvis man ser på de konkrete sager, der har været i de senere år, er hovedreglen, at der skal være tale om vedvarende gøen eller...</p>
 <p id="link">Læs mere her</p>
 </div>
 <div  class="col-md-6">
 <h4>Naboens hund gør konstant. Hvad kan vi gøre?</h4>
-<p>Der er ikke faste retningslinjer for, hvor grelt det <br> skal være, før hundeejeren får et påbud. <br> Men praksis viser, at der skal en del til. <br><br>
+<p>Der er ikke faste retningslinjer for, hvor grelt det skal være, før hundeejeren får et påbud. Men praksis viser, at der skal en del til. 
 
-Hvis man ser på de konkrete sager, der har været i <br> de senere år, er hovedreglen, at der skal være tale <br> om vedvarende gøen eller...</p>
+Hvis man ser på de konkrete sager, der har været i de senere år, er hovedreglen, at der skal være tale om vedvarende gøen eller...</p>
 <p id="link">Læs mere her</p>
 </div>
 </div>
 <div class="row">
 <div class="col-md-6">
 <h4>Naboens hund gør konstant. Hvad kan vi gøre?</h4>
-<p>Der er ikke faste retningslinjer for, hvor grelt det <br> skal være, før hundeejeren får et påbud. <br> Men praksis viser, at der skal en del til. <br><br>
+<p>Der er ikke faste retningslinjer for, hvor grelt det skal være, før hundeejeren får et påbud. Men praksis viser, at der skal en del til.
 
-Hvis man ser på de konkrete sager, der har været i <br> de senere år, er hovedreglen, at der skal være tale <br> om vedvarende gøen eller...</p>
+Hvis man ser på de konkrete sager, der har været i de senere år, er hovedreglen, at der skal være tale om vedvarende gøen eller...</p>
 <p id="link">Læs mere her</p>
 </div>
 <div class="col-md-6">
 <h4>Naboens hund gør konstant. Hvad kan vi gøre?</h4>
-<p>Der er ikke faste retningslinjer for, hvor grelt det <br> skal være, før hundeejeren får et påbud. <br> Men praksis viser, at der skal en del til. <br><br>
+<p>Der er ikke faste retningslinjer for, hvor grelt det skal være, før hundeejeren får et påbud. Men praksis viser, at der skal en del til. 
 
-Hvis man ser på de konkrete sager, der har været i <br> de senere år, er hovedreglen, at der skal være tale <br> om vedvarende gøen eller...</p>
+Hvis man ser på de konkrete sager, der har været i de senere år, er hovedreglen, at der skal være tale om vedvarende gøen eller...</p>
 <p id="link">Læs mere her</p>
 </div>
 </div>

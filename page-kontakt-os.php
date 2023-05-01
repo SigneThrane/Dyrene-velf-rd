@@ -17,8 +17,8 @@ get_header(); ?>
         <div class="kontaktoplysninger">
             <div class="container py-5 px-5">
                 <h1 class="oplysninger">Vores kontaktoplysninger</h1>
-                <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  <br>
-                   Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 <br>
+                <h5 class="oplys">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  
+                   Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 
 
                     Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</h5>
 
@@ -29,13 +29,13 @@ get_header(); ?>
         <div class="row gy-5 gx-5">
         <div class="col-sm-4">
             <p>
-            Formand Jeanette Wulff Geerthsen  <br>
+            Formand Jeanette Wulff Geerthsen 
 
-            Dyrenes.velfaerd@gmail.com <br>
+            Dyrenes.velfaerd@gmail.com 
 
             <p><i id="kontakticon" class="fas fa-phone me-3"></i> + 45 61 69 85 48</p>
           
-            CVR-nr: 39052024 <br>
+            CVR-nr: 39052024 
             </p>
 
             <img  width="50%" src="<?php the_field('logo'); ?>" alt="Logo" />
