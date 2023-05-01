@@ -65,7 +65,7 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
  andre nødvendigheder, som kan hjælpe dyrene i deres hverdag. Hvis du har noget, du <br>
   gerne vil donere, er du velkommen til at kontakte os via mail eller telefon, og vi vi <br>
   l arrangere en afhentning af genstandene på et tidspunkt og sted, der passer dig. Enhver donation, <br>
-   stor eller lille, betyder noget for de mishandlede dyr, og vi er taknemmelige for enhver hjælp, vi kan få."</p> <br>
+   stor eller lille, betyder noget for de mishandlede dyr, og vi er taknemmelige for enhver hjælp, vi kan få."</p> 
    <img  width="25%" src="<?php the_field('kattemad'); ?>" alt="Donation af kattemad" />
 
 
@@ -78,7 +78,6 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
                 </svg></div>
     </div>
                 <div class="map">
-			<br>
 			<h1>Du kan støtte på følgende måde</h1>
 	
 			<div class="row"> 
