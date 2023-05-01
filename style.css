@@ -348,9 +348,11 @@ div.swiper-button-prev.testimonial-nav-arrow {
 }
 
 p#text {
-   margin-left: 4rem;
-   margin-right: 4rem;
+   margin-left: 7rem;
+   margin-right: 7rem;
    text-align: justify;
+   font-family: itim;
+   font-size: larger;
   }
 
 #personalecontainer {
