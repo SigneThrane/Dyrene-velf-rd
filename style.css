@@ -8,7 +8,6 @@ Description: Bravada looks amazing, behaves flawlessly and scales to any screen.
 Tags: one-column,two-columns,three-columns,right-sidebar,left-sidebar,grid-layout,custom-background,custom-colors,custom-header,flexible-header,custom-menu,featured-image-header,featured-images,front-page-post-form,full-width-template,footer-widgets,microformats,post-formats,rtl-language-support,sticky-post,theme-options,threaded-comments,translation-ready,blog,photography,portfolio
 Version: 1.0.8.1681901041
 Updated: 2023-04-19 10:44:01
-
 */
 
 /*{}*/
@@ -218,7 +217,7 @@ ul.sub-menu {
 h1, h2, h3, h4, h5{
    text-align: center;
    font-family: itim !important;
-   margin: 4rem;
+   padding: 3rem;
 }
 
 h3 
@@ -258,6 +257,7 @@ p{
 .hunde{
    background-color: #5D7E4B;
    color: #F7F7F6;
+   text-align: center;
    padding: 10%;
 }
 
@@ -280,6 +280,7 @@ p{
 .hvem{
    background-color: #5D7E4B;
    color: #F7F7F6;
+   text-align: center;
 }
 
 .anmeldelser{
@@ -339,7 +340,6 @@ div.swiper-button-prev.testimonial-nav-arrow {
     -webkit-transform:rotate(-90deg);
     margin-top:70px;
     line-height: normal;
-    margin:0;
 }
 
 .row {
@@ -347,12 +347,10 @@ div.swiper-button-prev.testimonial-nav-arrow {
  margin-right: 50px;
 }
 
-p#text {
-   margin-left: 7rem;
-   margin-right: 7rem;
+p {
+   margin-left: 50px;
+   margin-right: 50px;
    text-align: justify;
-   font-family: itim;
-   font-size: larger;
   }
 
 #personalecontainer {
@@ -362,7 +360,3 @@ p#text {
    color: #36482C;
    border-radius: 30px;
 }
-
-
-
-
