@@ -218,6 +218,8 @@ ul.sub-menu {
 #hjaelp{
    background-color: #F7F7F6 !important;
    color: #36482C !important;
+   border-radius: 25px;
+   height:80%;
   }
 
  #hjlp{
@@ -231,16 +233,19 @@ ul.sub-menu {
   #orange{
    background-color: #F19B38 !important;
    color: #F7F7F6;
+   border-radius: 25px;
   }
 
   #lysorange {
    background-color: #F5C781!important;
    color: #36482C;
+   border-radius: 25px;
   }
 
   .button, input[type="button"], input[type="submit"], input[type="reset"]{
    background-color: #F5C781!important;
    color: #36482C;
+   border-radius: 25px;
   }
 
   #link{
