@@ -63,7 +63,7 @@ get_header(); ?>
                                                             <div id="personale" class="col-md-4">
                                                                 <div id="personalecontainer">
                                                             <img  width="100%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
-                                                            <h5>Majken E. Jensen</h5>
+                                                            <h3>Majken E. Jensen</h3>
                                                             <p>Funktion 
                                                             Kompetencer 
                                                             Beskrivelse 
@@ -88,7 +88,7 @@ get_header(); ?>
                                                             <div id="personale" class="col-md-4">
                                                                 <div id="personalecontainer">
                                                             <img  width="1000%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
-                                                            <h5>Majken E. Jensen</h5>
+                                                            <h3>Majken E. Jensen</h3>
                                                             <p>Funktion 
                                                             Kompetencer 
                                                             Beskrivelse 
