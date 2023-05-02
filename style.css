@@ -19,6 +19,10 @@ Updated: 2023-04-19 10:44:01
    position: relative;
 }
 
+body {
+   font-family: itim;
+}
+
 /*Navigation*/
 nav#mobile-menu.burgermenu-active {
    background-color: #36482C;
