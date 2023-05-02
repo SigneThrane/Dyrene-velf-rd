@@ -58,11 +58,11 @@ get_header(); ?>
                                              landmænd, som bringer unikke og værdifulde kompetencer til vores indsats.
                                          </p>  
                                          
-                                              <h4>Bestyrelsen</h4>
+                                              <h2>Bestyrelsen</h2>
                                                     <div class="row">
                                                             <div id="personale" class="col-md-4">
                                                                 <div id="personalecontainer">
-                                                            <img  width="60%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
+                                                            <img  width="100%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
                                                             <h5>Majken E. Jensen</h5>
                                                             <p>Funktion 
                                                             Kompetencer 
@@ -72,22 +72,22 @@ get_header(); ?>
                                                             </div>
                                                                   <div id="personale" class="col-md-4">
                                                                   <div id="personalecontainer">
-                                                                  <img  width="60%" src="<?php the_field('bestyrelsen_2'); ?>" alt="Logo" />
+                                                                  <img  width="100%" src="<?php the_field('bestyrelsen_2'); ?>" alt="Logo" />
                                                                   </div>
                      </div>
 
                                                                           <div id="personale" class="col-md-4">
                                                                           <div id="personalecontainer">
-                                                                          <img  width="60%" src="<?php the_field('bestyrelsen_3'); ?>" alt="Logo" />
+                                                                          <img  width="1000%" src="<?php the_field('bestyrelsen_3'); ?>" alt="Logo" />
                                                                           </div>
                      </div>
                                                     </div>
 
-                                                    <h4>Frivillige</h4>
+                                                    <h2>Frivillige</h2>
                                                     <div class="row">
                                                             <div id="personale" class="col-md-4">
                                                                 <div id="personalecontainer">
-                                                            <img  width="60%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
+                                                            <img  width="1000%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
                                                             <h5>Majken E. Jensen</h5>
                                                             <p>Funktion 
                                                             Kompetencer 
@@ -97,13 +97,13 @@ get_header(); ?>
                                                             </div>
                                                                   <div id="personale" class="col-md-4">
                                                                   <div id="personalecontainer">
-                                                                  <img  width="60%" src="<?php the_field('bestyrelsen_2'); ?>" alt="Logo" />
+                                                                  <img  width="100%" src="<?php the_field('bestyrelsen_2'); ?>" alt="Logo" />
                                                                   </div>
                      </div>
 
                                                                           <div id="personale" class="col-md-4">
                                                                           <div id="personalecontainer">
-                                                                          <img  width="60%" src="<?php the_field('bestyrelsen_3'); ?>" alt="Logo" />
+                                                                          <img  width="100%" src="<?php the_field('bestyrelsen_3'); ?>" alt="Logo" />
                                                                           </div>
                      </div>
                                                     </div>
