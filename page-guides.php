@@ -59,7 +59,7 @@ Hvis man ser på de konkrete sager, der har været i de senere år, er hovedregl
                 </svg></div></div>
                 <div class="dyrene">
 			<h3>Hjælp dyrene - støt en god sag</h3>
-			<button id="hjaelp">DONÉR NU </button>
+			<button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>

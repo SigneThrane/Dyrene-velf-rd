@@ -119,7 +119,7 @@ get_header();
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button id="hjaelp"><p><a href="/doner/">DONÉR NU</a></p> </button>
+			<button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
 
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her </p>
 			

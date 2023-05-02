@@ -31,28 +31,28 @@ medlemmer et unikt indblik i vores organisation og dens arbejde.</p>
 
 Vi takker dig for din støtte og ser frem til at have dig som en del af vores organisation.</p>
 
-<button id="lysorange">Kontakt</button>
+<button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
 
     <div class="wrapper">
     <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 69px;">
                     <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(93, 126, 75);"></path>
                 </svg></div>
 
-    <div class="muligheder">
+                <div class="muligheder">
         <h1>Du kan også støtte på følgende måder</h1>
         <div class="row">
             <div class="col-md-3">
-                   <button id="hjaelp">Bliv medlem</button>
+                   <button id="hjaelp"><p><a id="grøn" href="/bliv-medlem/">Bliv medlem</a></p> </button>
             </div>
             <div class="col-md-3">
-            <button id="hjaelp">Bliv frivillig</button>
+            <button id="hjaelp"><p><a id="grøn" href="/bliv-frivillig/">Bliv frivillig</a></p> </button>
             </div>
             <div class="col-md-3">
-                     <button id="hjaelp">Bliv sponsor</button>
+                     <button id="hjaelp"><p><a id="grøn" href="/bliv-sponsor/">Bliv sponsor</a></p> </button>
             </div>
             <div class="col-md-3">
-                 <button id="hjaelp">Donér</button>
-              
+                 <button id="hjaelp"><p><a id="grøn" href="/doner/">Donér</a></p> </button>
+               
             </div>
         </div>
 
@@ -65,7 +65,7 @@ Vi takker dig for din støtte og ser frem til at have dig som en del af vores or
 
                 <div class="dyrene">
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button id="hjaelp">DONÉR NU </button>
+            <button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>

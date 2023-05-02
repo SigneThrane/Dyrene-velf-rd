@@ -217,7 +217,15 @@ ul.sub-menu {
 /*Knapper*/
 #hjaelp{
    background-color: #F7F7F6 !important;
-   color: #36482C;
+   color: #36482C !important;
+  }
+
+ #hjlp{
+   color: #36482C !important;
+  }
+
+  #grøn{
+   color: #36482C !important;
   }
 
   #orange{

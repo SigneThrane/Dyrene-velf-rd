@@ -55,7 +55,7 @@ Vi værdsætter din støtte dybt og takker dig for at hjælpe os med at sikre dy
 Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hjælper os 
  med at fortsætte vores arbejde. Bemærk venligst, at du til enhver tid kan afmelde dig abonnementet, ved at kontakte os. </p>
 
-<button id="lysorange">Kontakt</button>
+<button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
 
 <h1>Donation af fysiske genstande</h1>
 <b>Har du lyst til at hjælpe de mishandlede dyr, men har du ikke mulighed for at donere penge? Intet problem! </b> 
@@ -128,7 +128,7 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button id="hjaelp">DONÉR NU </button>
+            <button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>
