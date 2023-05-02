@@ -234,6 +234,14 @@ p {
    font-size: larger;
   }
 
+  #center{
+   margin-left: 100px;
+   margin-right: 100px;
+   text-align: center;
+   font-family: itim;
+   font-size: larger;
+  }
+
 p{
    font-size: larger;
    font-family: itim !important;

@@ -64,10 +64,9 @@ Vi værdsætter alle vores sponsorer, og vi er taknemmelige for den vigtige roll
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
-			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-			
-
-        </div>
+			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
+			<br>
+		</div>
         </div>
     </div>
 </body>

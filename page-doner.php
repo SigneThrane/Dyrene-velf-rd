@@ -130,8 +130,8 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
-			<p>Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
-			
+			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
+			<br>
 		</div>
            </div>
            </div>
