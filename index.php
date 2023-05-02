@@ -106,8 +106,12 @@ get_header();
         </div>
 					<div class="animation">
 				 <h1>Hjælp os med at samle hestekræfter</h1> 
-				 <img  width="80%" src="<?php the_field('donation'); ?>" alt="Dyre i nød" />
+				 <img  width="70%" src="<?php the_field('donation'); ?>" alt="Dyre i nød" />
 						<h2>Sammen er vi STÆRKERE</h2>
+						
+						<p id="center"><a href="/doner">Klik på pilen, for at fortsætte med din heltegerning > </a></p>
+
+					
 				
 		
 		<div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(109% + 1.3px); height: 67px; transform: rotateY(180deg);">
@@ -119,7 +123,7 @@ get_header();
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
 			<button>DONÉR NU </button>
-			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
+			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her </p>
 			<br>
 		</div>
 		</div>
