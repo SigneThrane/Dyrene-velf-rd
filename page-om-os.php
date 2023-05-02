@@ -18,7 +18,7 @@ get_header(); ?>
 <main id="main" class="main">
         <h1>Om dyrenes velfærd</h1>
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-lg-6">
             <p id="text">
             Dyrenes Velfærd er en non-profit organisation med base i Christiansfeld. 
             Organisationen blev etableret i januar 2018 med det formål at håndhæve 
@@ -39,7 +39,7 @@ get_header(); ?>
             vores arbejde.
             </p>
             </div>   
-            <div class="col-md-6">
+            <div class="col-lg-6">
             <img  width="70%" src="<?php the_field('location'); ?>" alt="Logo" />
             </div>
         </div>

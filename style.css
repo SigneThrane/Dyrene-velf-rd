@@ -294,6 +294,26 @@ p{
    font-family: itim !important;
 }
 
+@media only screen and (max-width: 1160px) {
+   #center{
+      margin-left: 40px;
+      margin-right: 40px;
+      text-align: center;
+      font-family: itim;
+      font-size: larger;
+     }
+}
+
+@media only screen and (max-width: 1160px) {
+#text {
+   margin-left: 40px;
+   margin-right: 40px;
+   text-align: justify;
+   font-family: itim;
+   font-size: larger;
+  }}
+
+
 .container-index {
    margin-left: 200px;
    margin-right: 200px;
