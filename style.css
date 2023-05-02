@@ -214,6 +214,30 @@ ul.sub-menu {
    text-align: center;
 }
 
+/*Knapper*/
+#hjaelp{
+   background-color: #F7F7F6 !important;
+   color: #36482C;
+  }
+
+  #orange{
+   background-color: #F19B38 !important;
+   color: #F7F7F6;
+  }
+
+  #lysorange {
+   background-color: #F5C781!important;
+   color: #36482C;
+  }
+
+  .button, input[type="button"], input[type="submit"], input[type="reset"]{
+   background-color: #F5C781!important;
+   color: #36482C;
+  }
+
+  #link{
+color: #F19B38 !important;
+  }
 
 
 /*Fonts*/
@@ -292,6 +316,7 @@ p{
 .video{
    background-color: #5D7E4B;
    color: #F7F7F6;
+   text-align: center;
 }
 
 

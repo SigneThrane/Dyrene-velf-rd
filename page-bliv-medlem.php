@@ -31,7 +31,7 @@ medlemmer et unikt indblik i vores organisation og dens arbejde.</p>
 
 Vi takker dig for din støtte og ser frem til at have dig som en del af vores organisation.</p>
 
-<button>Kontakt</button>
+<button id="lysorange">Kontakt</button>
 
     <div class="wrapper">
     <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 69px;">
@@ -42,16 +42,16 @@ Vi takker dig for din støtte og ser frem til at have dig som en del af vores or
         <h1>Du kan også støtte på følgende måder</h1>
         <div class="row">
             <div class="col-md-3">
-                   <button>Bliv medlem</button>
+                   <button id="hjaelp">Bliv medlem</button>
             </div>
             <div class="col-md-3">
-            <button>Bliv frivillig</button>
+            <button id="hjaelp">Bliv frivillig</button>
             </div>
             <div class="col-md-3">
-                     <button>Bliv sponsor</button>
+                     <button id="hjaelp">Bliv sponsor</button>
             </div>
             <div class="col-md-3">
-                 <button>Donér</button>
+                 <button id="hjaelp">Donér</button>
               
             </div>
         </div>
@@ -65,7 +65,7 @@ Vi takker dig for din støtte og ser frem til at have dig som en del af vores or
 
                 <div class="dyrene">
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button>DONÉR NU </button>
+			<button id="hjaelp">DONÉR NU </button>
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>

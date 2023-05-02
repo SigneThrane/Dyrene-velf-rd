@@ -15,56 +15,52 @@ get_header();
 
 <div class="video">
 <h1>Vi kan stå sammen</h1>
+<iframe width="1060" height="615" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 <div class="wrapper">
-<div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(130% + 1.3px); height: 106px;"><path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(242, 232, 219);"></path></svg></div>  
-        </div></div> 
-		<div class="map">
-			<br>
-			<h1>Hvad kan du gøre?</h1>
-
-			<section class="container-index">
-			<?php if(have_posts()): ?>
-                    <?php while(have_posts()): the_post() ?>
-                        <?php the_content(); ?>
-                    <?php endwhile; ?>
-                <?php else: ?>
-                    <p>No content found</p>
-                <?php endif; ?>
-                </section>
-
+    <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(130% + 1.3px); height: 97px;">
+                    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(242, 232, 219);"></path>
+                </svg></div>
+    </div>
+                <div class="map">
+			<h1>Du kan støtte på følgende måde</h1>
 	
-			<div class="row">
-				<div class="col-md-3" id="op">
-				<img  width="70%" src="<?php the_field('anmeld'); ?>" alt="Dyre i nød" />
+			<div class="row"> 
+                
+				<div class="col-sm-3" id="op">
+                <img  width="70%" src="<?php the_field('anmeld'); ?>" alt="Katte der spiser" />
+           
 					<h4>Anmeld en sag</h4>
-					<p><a href="www.google.com">Vi besøger stedet for 
-						at få forbedret dyrenes 
-						forhold.</a></p>
-					
+					<p>Vi besøger stedet for 
+					at få forbedret dyrenes 
+					forhold.</p>
 				</div>
 
-				<div class="col-md-3" id="op">
-				<img  width="70%" src="<?php the_field('meld'); ?>" alt="Dyre i nød" />
-				<h4>Meld dig ind</h4>
-					<p>Det koster kun 100 
-					kroner om året.</p>
+				<div class="col-sm-3" id="op">
+                <img  width="70%" src="<?php the_field('meld'); ?>" alt="Katte der spiser" />
+           
+				<h4>Bliv frivillig</h4>
+					<p>Vi har altid brug for
+                    frivillige hænder.</p>
 				</div>
 
-				<div class="col-md-3" id="op">
-				<img  width="70%" src="<?php the_field('sponsor'); ?>" alt="Dyre i nød" />
+				<div class="col-sm-3" id="op">
+                <img  width="70%" src="<?php the_field('sponsor'); ?>" alt="Katte der spiser" />
+             
 				<h4>Bliv sponsor</h4>
 					<p>
 					Som sponsor kan du 
-					være med 
- 					til at gøre en forskel.
+                    være med 
+                    til at gøre en forskel.
 					</p>
 				</div>
 
-				<div class="col-md-3" id="op">
-				<img  width="70%" src="<?php the_field('donere'); ?>" alt="Dyre i nød" />
-				<h4>Donere</h4>
+				<div class="col-sm-3" id="op">
+                <img  width="80%" src="<?php the_field('donere'); ?>" alt="Katte der spiser" />
+       
+				<h4>Giv et bidrag</h4>
 					<p>Beløbet går ubeskåret 
 						til dyrene.</p>
 				</div>
@@ -97,9 +93,10 @@ get_header();
                 </div>
 
                 <div class="anmeldsag">
-			<br> <br>
 			<h1>Har du set noget som giver dig ondt i hjertet? </h1>
-			<button>ANMELD SAG HER</button>
+			<button id="orange"><p><a href="/anmeld-sag/">ANMELD SAG HER</a></p></button>
+			
+			
 			<br>
 
 		<div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(130% + 1.3px); height: 106px;"><path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(242, 232, 219);"></path></svg></div>  
@@ -109,7 +106,7 @@ get_header();
 				 <img  width="70%" src="<?php the_field('donation'); ?>" alt="Dyre i nød" />
 						<h2>Sammen er vi STÆRKERE</h2>
 						
-						<p id="center"><a href="/doner">Klik på pilen, for at fortsætte med din heltegerning > </a></p>
+						<p id="center"><a id="link" href="/doner">Klik på pilen, for at fortsætte med din heltegerning > </a></p>
 
 					
 				
@@ -122,8 +119,10 @@ get_header();
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button>DONÉR NU </button>
+			<button id="hjaelp"><p><a href="/doner/">DONÉR NU</a></p> </button>
+
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her </p>
+			
 			<br>
 		</div>
 		</div>

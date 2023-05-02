@@ -66,7 +66,7 @@ get_header(); ?>
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button>DONÉR NU </button>
+			<button id="hjaelp">DONÉR NU </button>
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
 		</div>
