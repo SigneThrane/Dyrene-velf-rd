@@ -227,16 +227,16 @@ p {
   }
 
   #text{
-   margin-left: 100px;
-   margin-right: 100px;
+   margin-left: 300px;
+   margin-right: 300px;
    text-align: justify;
    font-family: itim;
    font-size: larger;
   }
 
   #center{
-   margin-left: 100px;
-   margin-right: 100px;
+   margin-left: 300px;
+   margin-right: 300px;
    text-align: center;
    font-family: itim;
    font-size: larger;

@@ -17,7 +17,7 @@ get_header(); ?>
     <div class="hest">
         <h1>Hjælp os med at samle hestekræfter</h1>
         <img  width="70%" src="<?php the_field('hestekraft'); ?>" alt="Donation oversigt" />
-        <p id="grøn">"Vores hestekræfter stammer fra vores fælles engagement i at hjælpe dyr i nød. 
+        <p id="text">"Vores hestekræfter stammer fra vores fælles engagement i at hjælpe dyr i nød. 
          Din donation er med til at øge vores styrke og vores evne til at redde flere dyreliv. 
           Støt vores mission og vær med til at gøre en forskel."</p>
         
