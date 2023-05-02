@@ -31,8 +31,7 @@ get_header(); ?>
     </div>
     </div>
     <div class="stot">
-    <h1>Donationer modtages med glæde</h1>
-    <b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter > samt fysiske produkter. Læs mere om de enkelte muligheder, herunder:</b>
+    <b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter samt fysiske produkter. Læs mere om de enkelte muligheder, herunder:</b>
 
     <h1>Valgfrit engangs-beløb</h1>
 
