@@ -12,6 +12,14 @@
 get_header();
 ?>
 <body>
+
+<div class="video">
+<h1>Vi kan stå sammen</h1>
+
+
+<div class="wrapper">
+<div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(130% + 1.3px); height: 106px;"><path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(242, 232, 219);"></path></svg></div>  
+        </div></div> 
 		<div class="map">
 			<br>
 			<h1>Hvad kan du gøre?</h1>
@@ -26,11 +34,10 @@ get_header();
                 <?php endif; ?>
                 </section>
 
-				<img  width="80%" src="<?php the_field('testtest'); ?>" alt="test" />
-
 	
 			<div class="row">
 				<div class="col-md-3" id="op">
+				<img  width="70%" src="<?php the_field('anmeld'); ?>" alt="Dyre i nød" />
 					<h4>Anmeld en sag</h4>
 					<p><a href="www.google.com">Vi besøger stedet for 
 						at få forbedret dyrenes 
@@ -39,12 +46,14 @@ get_header();
 				</div>
 
 				<div class="col-md-3" id="op">
+				<img  width="70%" src="<?php the_field('meld'); ?>" alt="Dyre i nød" />
 				<h4>Meld dig ind</h4>
 					<p>Det koster kun 100 
 					kroner om året.</p>
 				</div>
 
 				<div class="col-md-3" id="op">
+				<img  width="70%" src="<?php the_field('sponsor'); ?>" alt="Dyre i nød" />
 				<h4>Bliv sponsor</h4>
 					<p>
 					Som sponsor kan du 
@@ -54,6 +63,7 @@ get_header();
 				</div>
 
 				<div class="col-md-3" id="op">
+				<img  width="70%" src="<?php the_field('donere'); ?>" alt="Dyre i nød" />
 				<h4>Donere</h4>
 					<p>Beløbet går ubeskåret 
 						til dyrene.</p>
@@ -96,6 +106,7 @@ get_header();
         </div>
 					<div class="animation">
 				 <h1>Hjælp os med at samle hestekræfter</h1> 
+				 <img  width="80%" src="<?php the_field('donation'); ?>" alt="Dyre i nød" />
 						<h2>Sammen er vi STÆRKERE</h2>
 				
 		
@@ -110,6 +121,7 @@ get_header();
 			<button>DONÉR NU </button>
 			<p id="dyrene">Har du spørgsmål til hvordan du kan støtte? Læs mere her</p>
 			<br>
+		</div>
 		</div>
 		</div>
 		</div>

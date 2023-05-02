@@ -44,7 +44,7 @@ Vi værdsætter din støtte dybt og takker dig for at hjælpe os med at sikre dy
  Hvis du ønsker at holde dig opdateret med vores arbejde og resultater, kan du følge os på vores Facebook-side. 
   Tusind tak for din hjælp!</p>
 
-<b> Hver donation, uanset størrelse, er af stor betydning og hjælper os med at opretholde  vores vigtige br arbejde for dyrenes velfærd.</b>
+<b> Hver donation, uanset størrelse, er af stor betydning og hjælper os med at opretholde  vores vigtige arbejde for dyrenes velfærd.</b>
 
 <h1>Månedlig abbonent</h1>
 
