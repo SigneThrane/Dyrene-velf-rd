@@ -17,7 +17,7 @@ get_header(); ?>
     <div class="hest">
         <h1>Hjælp os med at samle hestekræfter</h1>
         <img  width="70%" src="<?php the_field('hestekraft'); ?>" alt="Donation oversigt" />
-        <p id="text">"Vores hestekræfter stammer fra vores fælles engagement i at hjælpe dyr i nød. 
+        <p id="center">"Vores hestekræfter stammer fra vores fælles engagement i at hjælpe dyr i nød. 
          Din donation er med til at øge vores styrke og vores evne til at redde flere dyreliv. 
           Støt vores mission og vær med til at gøre en forskel."</p>
         
@@ -31,7 +31,7 @@ get_header(); ?>
     </div>
     </div>
     <div class="stot">
-    <b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter samt fysiske produkter. Læs mere om de enkelte muligheder, herunder:</b>
+    <p id="center"><b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter samt fysiske produkter. Læs mere om de enkelte muligheder, herunder:</b></p>
 
     <h1>Valgfrit engangs-beløb</h1>
 
@@ -44,7 +44,7 @@ Vi værdsætter din støtte dybt og takker dig for at hjælpe os med at sikre dy
  Hvis du ønsker at holde dig opdateret med vores arbejde og resultater, kan du følge os på vores Facebook-side. 
   Tusind tak for din hjælp!</p>
 
-<b> Hver donation, uanset størrelse, er af stor betydning og hjælper os med at opretholde  vores vigtige arbejde for dyrenes velfærd.</b>
+  <p id="center"><b> Hver donation, uanset størrelse, er af stor betydning og hjælper os med at opretholde  vores vigtige arbejde for dyrenes velfærd.</b></p>
 
 <h1>Månedlig abbonent</h1>
 
@@ -58,7 +58,7 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
 <button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
 
 <h1>Donation af fysiske genstande</h1>
-<b>Har du lyst til at hjælpe de mishandlede dyr, men har du ikke mulighed for at donere penge? Intet problem! </b> 
+<p id="center"><b>Har du lyst til at hjælpe de mishandlede dyr, men har du ikke mulighed for at donere penge? Intet problem! </b></p>
 
 <p id="text">Vi accepterer også donationer af fysiske genstande, såsom foder, tæpper, legetøj og 
  andre nødvendigheder, som kan hjælpe dyrene i deres hverdag. Hvis du har noget, du 
