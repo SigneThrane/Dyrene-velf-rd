@@ -21,7 +21,7 @@ get_header(); ?>
         </div>       
         <div class="kontakt">
         <div class="row gy-5 gx-5">
-        <div class="col-sm-4">
+        <div class="col-sm-6">
         <p id="text">Vær opmærksom på, at ved din detaljerede beskrivelse af anmeldelsen, kan vi være forberedt på vores besøg. 
 
 Vi giver altid tilbagemelding til dig efterfølgende, så det er vigtigt, at du skriver dit telefonnummer. 
@@ -32,8 +32,8 @@ Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
 
         </div>
 
-                <div class="col-sm-8">
-                    <h5>Har du set noget som giver dig ondt i hjertet? </h5>
+                <div class="col-sm-6">
+                    <p>Har du set noget som giver dig ondt i hjertet? </p>
                 <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?>
 </div>
     </div>

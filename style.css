@@ -263,7 +263,8 @@ color: #F19B38 !important;
 h1, h2, h3, h4, h5{
    text-align: center;
    font-family: itim !important;
-   padding: 3rem;
+   padding-top: 3rem;
+   padding-bottom: 3rem;
 }
 
 p {
