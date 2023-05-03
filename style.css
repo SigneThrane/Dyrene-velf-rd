@@ -111,6 +111,13 @@ ul.sub-menu {
       text-align: center;
     }
 
+    #qrkode{
+         background-color: #F2E8DB;
+         margin: 2%;
+         color: #36482C;
+         border-radius: 30px;
+   }
+
     /* Bliv medlem*/
 .medlem{
    background-color: #F2E8DB;

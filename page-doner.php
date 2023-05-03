@@ -21,7 +21,22 @@ get_header(); ?>
          Din donation er med til at øge vores styrke og vores evne til at redde flere dyreliv. 
           Støt vores mission og vær med til at gøre en forskel."</p>
         
-            <div class="qrkode"></div>
+          <div class="qr">
+                <div class="d-flex flex-nowrap">
+  <div class="order-3 p-2"> 
+    <img  width="36%" src="<?php the_field('bank'); ?>" alt="bankkort" />
+                        <h3>Danske Bank
+                        9570 12519737</h3></div>
+
+  <div class="order-2 p-2"><img  width="70%" src="<?php the_field('qr'); ?>" alt="mobilepay logo" /></div>
+
+  <div class="order-1 p-2">  
+    <img  width="30%" src="<?php the_field('mobilepay'); ?>" alt="mobilepay logo" />
+                            <h3>Mobilepay
+                                87003
+                                Dyrenes velfærd</h3></div>
+</div>        
+    </div>
 
 
     <div class="wrapper">
