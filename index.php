@@ -27,7 +27,7 @@ get_header();
                 <div class="map">
 			<h1>Du kan støtte på følgende måde</h1>
 	
-			<div class="row"> 
+			<div class="row justify-content-center"> 
                 
 				<div class="col-sm-3" id="op">
                 <img  width="70%" src="<?php the_field('anmeld'); ?>" alt="Katte der spiser" />
