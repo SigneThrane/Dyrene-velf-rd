@@ -94,7 +94,7 @@ Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hj�
                 <div class="map">
 			<h1>Du kan støtte på følgende måde</h1>
 	
-			<div class="row"> 
+			<div class="row justify-content-center"> 
                 
 				<div class="col-sm-3" id="op">
                 <img  width="70%" src="<?php the_field('bliv_medlem'); ?>" alt="Katte der spiser" />
