@@ -26,7 +26,19 @@ medlemmer et unikt indblik i vores organisation og dens arbejde.</p>
 <p id="text">For at blive medlem, skal du overføre 100,75 kroner til enten vores bankkonto eller via MobilePay. 
     De 100,75 kroner inkluderer et gebyr på 75 øre så vi nemmest kan registrere, at donationen er for et medlemskab. </p>
 
-    <div class="qrkode"></div>
+    <div class="qr">
+                <div class="d-flex flex-nowrap">
+  <div class="order-3 p-2">         <img  width="36%" src="<?php the_field('bank'); ?>" alt="bankkort" />
+                        <h3>Danske Bank
+                        9570 12519737</h3></div>
+  <div class="order-2 p-2"><img  width="70%" src="<?php the_field('qr'); ?>" alt="mobilepay logo" /></div>
+  <div class="order-1 p-2">  <img  width="30%" src="<?php the_field('mobilepay'); ?>" alt="mobilepay logo" />
+                            <h3>Mobilepay
+                                87003
+                                Dyrenes velfærd</h3></div>
+</div>        
+    </div>
+    
     <p id="text">Derudover beder vi dig venligst sende en mail til os via vores kontaktformular, med dit fulde navn, adresse, e-mail og mobilnummer for at bekræfte dit medlemskab. 
 
 Vi takker dig for din støtte og ser frem til at have dig som en del af vores organisation.</p>
