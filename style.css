@@ -479,3 +479,28 @@ div.swiper-button-prev.testimonial-nav-arrow {
    color: #36482C;
    border-radius: 30px;
 }
+
+#qr {
+   background-color: #F5C781;
+}
+
+
+#hero {
+   background-image: url('img/Image\ 122.png');
+   background-size:200vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#herotext {
+   display: flex;
+   margin: 0%;
+   align-content: flex;
+   justify-content: flex-end;
+   padding-top: 40vh;
+   padding-bottom: 10vh;
+   padding-left: 80vh;
+}

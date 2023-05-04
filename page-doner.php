@@ -13,6 +13,11 @@
 
 get_header(); ?>
 
+<div id="hero">
+    <div id="herorow" class="row">
+    <div id="herotext" class="col-sm-8"><h1 id=herotext>Dyrenes Hven</h1></div></div></div>
+</head>
+
 <body>
     <div class="hest">
         <h1>Hjælp os med at samle hestekræfter</h1>
@@ -23,12 +28,12 @@ get_header(); ?>
         
           <div class="qr">
                 <div class="d-flex flex-nowrap">
-  <div class="order-3 p-2"> 
+  <div class="order-3 p-2"><div id="qr">
     <img  width="36%" src="<?php the_field('bank'); ?>" alt="bankkort" />
                         <h3>Danske Bank
-                        9570 12519737</h3></div>
+                        9570 12519737</h3></div></div>
 
-  <div class="order-2 p-2"><img  width="70%" src="<?php the_field('qr'); ?>" alt="mobilepay logo" /></div>
+  <div class="order-2 p-2"><div id="qr"><img  width="70%" src="<?php the_field('qr'); ?>" alt="mobilepay logo" /></div></div>
 
   <div class="order-1 p-2">  
     <img  width="30%" src="<?php the_field('mobilepay'); ?>" alt="mobilepay logo" />

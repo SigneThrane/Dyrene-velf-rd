@@ -11,6 +11,14 @@
  */
 get_header();
 ?>
+
+<div id="hero">
+    <div id="herorow" class="row">
+    <div id="herotext" class="col-sm-8"><h1 id=herotext>Dyrenes Hven</h1></div></div></div>
+</head>
+
+
+
 <body>
     <div class="blivsponsor">
         <h1>At blive sponsor</h1>

@@ -83,17 +83,4 @@
 
 		</div><!-- #site-header-main -->
 
-		<div id="header-image-main">
-			<div id="header-image-main-inside">
-				<?php cryout_headerimage_hook(); ?>
-			</div><!-- #header-image-main-inside -->
-		</div><!-- #header-image-main -->
-
-	</header><!-- #masthead -->
-	<div id="donersticky">
-    <p><a href="/doner">STØT</a></p>
-</div>
-	<?php cryout_absolute_top_hook(); ?>
-
-	<div id="content" class="cryout">
-		<?php cryout_main_hook(); ?>
+		
