@@ -487,7 +487,7 @@ div.swiper-button-prev.testimonial-nav-arrow {
 
 #hero {
    background-image: url('img/Image\ 122.png');
-   background-size:200vh;
+   background-size:100vh;
    background-position: center;
    background-attachment: fixed;
    background-position: center;
@@ -503,4 +503,7 @@ div.swiper-button-prev.testimonial-nav-arrow {
    padding-top: 40vh;
    padding-bottom: 10vh;
    padding-left: 80vh;
+   color: #F5C781;
+   font-family: lato;
+   font size: 50rem;
 }

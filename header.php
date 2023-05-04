@@ -82,5 +82,10 @@
 			</div><!--.site-header-bottom-->
 
 		</div><!-- #site-header-main -->
-
 		
+		<?php cryout_main_hook(); ?>
+
+		</header><!-- #masthead -->
+	<div id="donersticky">
+    <p><a href="/doner">STØT</a></p>
+</div>
