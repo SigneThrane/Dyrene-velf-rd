@@ -131,9 +131,6 @@ ul.sub-menu {
    text-align: center;
 }
 
-
-
-
 /*FOOTER*/
    .footer{
       background-color: #36482C;
@@ -360,6 +357,9 @@ p{
    text-align: center;
 }
 
+#space{
+   padding-top: 5%;
+   }
 
 
 /*Guides*/
@@ -386,6 +386,10 @@ p{
 
 
 /*om os*/
+#ptekst{
+ padding: 2rem;
+}
+
 .hvem{
    background-color: #5D7E4B;
    color: #F7F7F6;
@@ -416,11 +420,13 @@ span.swiper-pagination-bullet {
 div.swiper-button-next.testimonial-nav-arrow {
    background-color: #F19B38 !important;
    border: none !important;
+
 }
 
 div.swiper-button-prev.testimonial-nav-arrow {
    background-color: #F19B38 !important;
    border: none !important;
+
 }
 
 

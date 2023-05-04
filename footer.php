@@ -18,7 +18,7 @@
 				<div class="row gx-5">
 					
                         <div class="col-md-4">
-						<img  width="60%" src="<?php the_field('footer'); ?>" alt="logo" />
+						<img src="img/Group 531.png" alt="Dyrnesvelfærds logo">
 						<br> 
 						Tlf. 61 69 85 48 │dyrenes.velfaerd@gmail.com
                         </div>

@@ -64,21 +64,46 @@ get_header(); ?>
                                                                 <div id="personalecontainer">
                                                             <img  width="100%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
                                                             <h3>Majken E. Jensen</h3>
-                                                            <p>Funktion 
-                                                            Kompetencer 
-                                                            Beskrivelse 
-                                                            </p>
+                                                            <b id="ptekst">Funktion </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Kompetencer </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Beskrivelse </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text </p>
                      </div>
                                                             </div>
                                                                   <div id="personale" class="col-md-4">
                                                                   <div id="personalecontainer">
                                                                   <img  width="100%" src="<?php the_field('bestyrelsen_2'); ?>" alt="Logo" />
+                                                                  <h3>Majken E. Jensen</h3>
+                                                            <b id="ptekst">Funktion </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Kompetencer </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Beskrivelse </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text </p>
                                                                   </div>
                      </div>
 
                                                                           <div id="personale" class="col-md-4">
                                                                           <div id="personalecontainer">
                                                                           <img  width="1000%" src="<?php the_field('bestyrelsen_3'); ?>" alt="Logo" />
+                                                                          <h3>Majken E. Jensen</h3>
+                                                            <b id="ptekst">Funktion </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Kompetencer </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Beskrivelse </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text </p>
                                                                           </div>
                      </div>
                                                     </div>
@@ -89,21 +114,47 @@ get_header(); ?>
                                                                 <div id="personalecontainer">
                                                             <img  width="1000%" src="<?php the_field('bestyrelsen_1'); ?>" alt="Logo" />
                                                             <h3>Majken E. Jensen</h3>
-                                                            <p>Funktion 
-                                                            Kompetencer 
-                                                            Beskrivelse 
-                                                            </p>
+                                                            <b id="ptekst">Funktion </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Kompetencer </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Beskrivelse </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text </p>
+                                                         
                      </div>
                                                             </div>
                                                                   <div id="personale" class="col-md-4">
                                                                   <div id="personalecontainer">
                                                                   <img  width="100%" src="<?php the_field('bestyrelsen_2'); ?>" alt="Logo" />
+                                                                  <h3>Majken E. Jensen</h3>
+                                                            <b id="ptekst">Funktion </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Kompetencer </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Beskrivelse </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text </p>
                                                                   </div>
                      </div>
 
                                                                           <div id="personale" class="col-md-4">
                                                                           <div id="personalecontainer">
                                                                           <img  width="100%" src="<?php the_field('bestyrelsen_3'); ?>" alt="Logo" />
+                                                                          <h3>Majken E. Jensen</h3>
+                                                            <b id="ptekst">Funktion </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Kompetencer </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text</p>
+                                                            <b id="ptekst">Beskrivelse </b>
+                                                            <p id="ptekst">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                                                Lorem Ipsum has been the industry's standard dummy text </p>
                                                                           </div>
                      </div>
                                                     </div>

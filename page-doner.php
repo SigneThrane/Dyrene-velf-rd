@@ -45,7 +45,7 @@ get_header(); ?>
                 </svg></div>
     </div>
     </div>
-    <div class="stot">
+    <div id="space" class="stot">
     <p id="center"><b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter samt fysiske produkter. Læs mere om de enkelte muligheder, herunder:</b></p>
 
     <h1>Valgfrit engangs-beløb</h1>

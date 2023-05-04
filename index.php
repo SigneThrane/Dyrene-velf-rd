@@ -73,7 +73,7 @@ get_header();
 		</div>
 		<div class="anmeldsag">
           
-                    <div class="row">
+                    <div id="space" class="row">
                        
                         <div class="col-md-4">
                            
