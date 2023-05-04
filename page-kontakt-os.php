@@ -54,7 +54,7 @@ get_header(); ?>
                 <div class="sponsor">
                   
                    <h1>Stort tak til vores sponsorer</h1>
-                     <?php echo apply_shortcodes( '[sponsors style=slider arrows=0 image_size=50px slidestoscroll=3 slidestoshow=3 breakpoints=480;1;1|640;2;2]' ); ?>
+                   <?php echo do_shortcode('[slick_logo_carousel id="230"]'); ?>
                      
                      <div class="wrapper">
                     <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(109% + 1.3px); height: 67px; transform: rotateY(180deg);">

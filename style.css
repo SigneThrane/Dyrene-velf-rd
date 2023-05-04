@@ -31,6 +31,11 @@ nav#mobile-menu.burgermenu-active {
 
 ul.sub-menu {
    background-color: #36482C !important;
+   
+}
+
+.menu-item {
+font-size: larger;
 }
 
  /*Kontakt os*/
