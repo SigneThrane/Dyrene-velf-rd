@@ -20,26 +20,32 @@
                         <div class="col-md-4">
 						<img src="img/Group 531.png" alt="Dyrnesvelfærds logo">
 						<br> 
-						Tlf. 61 69 85 48 │dyrenes.velfaerd@gmail.com
+						<i  class="bi bi-telephone-fill"></i>Tlf. 61 69 85 48 <br>
+						<i  class="bi bi-envelope-fill"></i>dyrenes.velfaerd@gmail.com
                         </div>
 
-                        <div class="col-md-3">
-                        Anmeld sag
+                        <div class="col-md-2">
+						<a href="/anmeld-sag/">Anmeld sag</a>
 							<br>
-						Bliv frivillig
+							<a href="//guides//">Guides</a>
 								<br>
-						Guides
+								<a href="/doner">Doner </a>
                         </div>
 
-                        <div class="col-md-3">
-						Kontakt os
+                        <div class="col-md-2">
+						<a href="/bliv-frivillig/">Bliv frivillig</a>
 						 <br>
-						 Omkring os
+						 <a href="/bliv-medlem/"> bliv medlem</a>
 						 <br>
-						 Donere
+						 <a href="/bliv-sponsor/"> Bliv sponsor</a>
+                        </div>
+
+						<div class="col-md-2">
+						<a href="/om-os/"> Om os</a>
 						 <br>
-						 Cookies og privatlivspolitik
-                        
+						 <a href="/kontakt-os/"> Kontakt os</a>
+						 <br>
+						 <a href=" http://dyrene-velfrd-1.local/?page_id=3"> Privatlivspolitik</a>
                         </div>
                         
 						<div class="col-md-1" id="some">
