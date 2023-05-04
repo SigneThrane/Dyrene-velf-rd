@@ -17,36 +17,27 @@ get_header(); ?>
         <div class="kontaktoplysninger">
             <div class="container py-5 px-5">
                 <h1 class="oplysninger">Vores kontaktoplysninger</h1>
-                <h5 class="oplys"><p id="text">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  
+                <p id="text">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  
                    Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 
 
-                    Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p></h5>
+                    Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p>
 
 </div>
    
-
-        <div class="kontakt">
-        <div class="row gy-5 gx-5">
-        <div class="col-sm-4">
-            <p>
-            Formand Jeanette Wulff Geerthsen</br>
-
-            Dyrenes.velfaerd@gmail.com 
-
-            <p><i id="kontakticon" class="fas fa-phone me-3"></i> + 45 61 69 85 48</p>
-          
-            CVR-nr: 39052024 
-            </p>
-
+<div class="kontakt">
+    <div class="row">
+        <div class="col-md-6">
+            <p id="text"><i id="icons" class="bi bi-person-fill"></i>Formand Jeanette Wulff Geerthsen</p>
+            <p id="text"><i id="icons" class="bi bi-envelope-fill"></i> Dyrenes.velfaerd@gmail.com </p>
+            <p id="text"><i id="icons" class="bi bi-telephone-fill"></i>+ 45 61 69 85 48</p>
+            <p id="text"><i  id="icons" class="bi bi-key-fill"></i>CVR-nr: 39052024 </p>
             <img  width="50%" src="<?php the_field('logo'); ?>" alt="Logo" />
-
         </div>
-        
 
-                <div class="col-sm-8">
-                <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?>
-                </div>
+        <div class="col-md-6">  <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?></div>
     </div>
+</div>
+
     <div class="wrapper">
     <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(130% + 1.3px); height: 106px;"><path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(242, 232, 219);"></path></svg></div>  
         </div></div>
