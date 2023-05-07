@@ -29,7 +29,7 @@ get_header(); ?>
 </div>
    
 <div class="kontakt">
-    <div class="row row justify-content-center">
+    <div class="row justify-content-center">
         <div class="col-md-6">
             <p id="text"><i id="icons" class="bi bi-person-fill"></i>Formand Jeanette Wulff Geerthsen</p>
             <p id="text"><i id="icons" class="bi bi-envelope-fill"></i> Dyrenes.velfaerd@gmail.com </p>

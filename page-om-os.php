@@ -171,7 +171,7 @@ get_header(); ?>
                                                                <div class="anmeldelser">
                                                                   <h1>Anmeldelser</h1>
                                                                      <p id="center">Anmeldelserne er taget fra vores facebook side</p> 
-                                                                     <?php echo do_shortcode('[sp_testimonial id="90"]');?>
+                                                                     <div class=anm-container> <?php echo do_shortcode('[sp_testimonial id="90"]');?></div>
                                                             
 
                      <div class="wrapper">                                                

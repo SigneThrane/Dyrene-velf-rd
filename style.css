@@ -233,7 +233,9 @@ font-size: larger;
    background-color: #F7F7F6 !important;
    color: #36482C !important;
    border-radius: 25px;
-   height:80%;
+   padding-bottom: 0%;
+   margin-bottom: 2rem;
+
   }
 
  #hjlp{
@@ -411,6 +413,11 @@ p{
    color: #36482C;
 }
 
+.anm-container {
+   margin-left: 200px;
+   margin-right: 200px;
+}
+
 .om{
    background-color: #F2E8DB;
    color: #36482C;
@@ -505,5 +512,4 @@ div.swiper-button-prev.testimonial-nav-arrow {
    padding-left: 80vh;
    color: #F5C781;
    font-family: lato;
-   font size: 50rem;
 }
