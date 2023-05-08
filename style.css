@@ -63,6 +63,21 @@ font-size: larger;
     text-align: center;
  }
 
+
+   #kontakt{
+      background-color: #5D7E4B;
+      color: #F7F7F6;
+      text-align: center;
+      margin-left: 200px;
+      margin-right: 200px;
+   }
+  
+   @media only screen and (max-width: 1160px) {
+     #kontakt {
+        margin-left: 40px;
+        margin-right: 40px;
+     }}
+
  .sponsor{
     background-color: #F2E8DB;
     color: #36482C;

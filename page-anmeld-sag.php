@@ -24,6 +24,7 @@ get_header(); ?>
                 <h1 class="oplysninger">Anmeld en dyreværnssag her</h1>
         </div>       
         <div class="kontakt">
+        <div id="kontakt">
         <div class="row gy-5 gx-5">
         <div class="col-sm-6">
         <p>Vær opmærksom på, at ved din detaljerede beskrivelse af anmeldelsen, kan vi være forberedt på vores besøg. 
@@ -39,6 +40,7 @@ Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
                 <div class="col-sm-6">
                     <p>Har du set noget som giver dig ondt i hjertet? </p>
                 <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?>
+</div>
 </div>
     </div>
     <div class="wrapper">
