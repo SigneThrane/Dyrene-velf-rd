@@ -13,10 +13,10 @@ get_header();
 ?>
 <div id="hero">
     <div id="herorow" class="row">
-    <div id="herotext" class="col-sm-8"><h1 id=herotext>Dyrenes Hven</h1></div></div></div>
+	<img id="logo1"  width="20%" src="<?php the_field('logo'); ?>" alt="Dyrenesvelfærdlogo" />
+    <div id="herotext" class="col-sm-12"><h1 id=herotext>Vi redder dyr i nød</h1></div></div></div>
 </head>
 <body>
-
 <div class="video">
 <h1>Vi kan stå sammen</h1>
 <iframe width="1060" height="615" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

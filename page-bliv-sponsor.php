@@ -12,9 +12,9 @@
 get_header();
 ?>
 
-<div id="hero">
+<div id="herosponsor">
     <div id="herorow" class="row">
-    <div id="herotext" class="col-sm-8"><h1 id=herotext>Dyrenes Hven</h1></div></div></div>
+    <div id="herotext" class="col-sm-12"><h1 id=herotext>Bliv sponsor</h1></div></div></div>
 </head>
 
 

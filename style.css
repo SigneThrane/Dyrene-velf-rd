@@ -256,6 +256,8 @@ font-size: larger;
    background-color: #F5C781!important;
    color: #36482C;
    border-radius: 25px;
+   padding-bottom: 0%;
+   margin-bottom: 2rem;
   }
 
   .button, input[type="button"], input[type="submit"], input[type="reset"]{
@@ -491,9 +493,98 @@ div.swiper-button-prev.testimonial-nav-arrow {
    background-color: #F5C781;
 }
 
-
 #hero {
-   background-image: url('img/Image\ 122.png');
+   background-image: url('img/forside.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#heroanmeld {
+   background-image: url('img/anmeld.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#heroguide {
+   background-image: url('img/guide.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#herodoner {
+   background-image: url('img/doner.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#herofrivillig {
+   background-image: url('img/frivillig.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#heromedlem {
+   background-image: url('img/medlem.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#herosponsor {
+   background-image: url('img/sponsor.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#herodoner {
+   background-image: url('img/doner.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#heroos {
+   background-image: url('img/os.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#herokontakt {
+   background-image: url('img/kontakt.png');
    background-size:100vh;
    background-position: center;
    background-attachment: fixed;
@@ -512,4 +603,9 @@ div.swiper-button-prev.testimonial-nav-arrow {
    padding-left: 80vh;
    color: #F5C781;
    font-family: lato;
+font-size: xx-large;
+}
+
+#logo1{
+
 }
