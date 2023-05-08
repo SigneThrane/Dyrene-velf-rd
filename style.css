@@ -250,6 +250,8 @@ font-size: larger;
    background-color: #F19B38 !important;
    color: #F7F7F6;
    border-radius: 25px;
+   padding-bottom: 0%;
+   margin-bottom: 2rem;
   }
 
   #lysorange {
