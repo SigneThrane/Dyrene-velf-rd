@@ -20,16 +20,10 @@ get_header();
 <body>
     <div class="medlem">
 <h1>Vi håber du vil være med!</h1>
-<p id="text">Som frivillig organisation er enhver form for støtte afgørende for vores arbejde, og derfor tilbyder vi medlemskab for et årligt beløb på kun 100 kroner. 
-    Beløbet vil blive brugt til at hjælpe dyr i nød, og alle betalinger er ubeskåret. 
-
-Til alle nye medlemmer tilbyder vi en "stolt medlem af dyrenes velfærd" nøglering, samt adgang til vores lukkede Facebook-gruppe. 
-Facebook gruppen er dedikeret til at dele relevante nyheder og invitationer til bestyrelsesmøder, og giver vores 
-medlemmer et unikt indblik i vores organisation og dens arbejde.</p>
+<p id="text"><?php the_field('tekst1'); ?></p>
 
 <h1>Bliv medlem</h1>
-<p id="text">For at blive medlem, skal du overføre 100,75 kroner til enten vores bankkonto eller via MobilePay. 
-    De 100,75 kroner inkluderer et gebyr på 75 øre så vi nemmest kan registrere, at donationen er for et medlemskab. </p>
+<p id="text"><?php the_field('tekst2'); ?> </p>
 
     <div class="qr">
                 <div class="d-flex flex-nowrap">
@@ -44,9 +38,7 @@ medlemmer et unikt indblik i vores organisation og dens arbejde.</p>
 </div>        
     </div>
     
-    <p id="text">Derudover beder vi dig venligst sende en mail til os via vores kontaktformular, med dit fulde navn, adresse, e-mail og mobilnummer for at bekræfte dit medlemskab. 
-
-Vi takker dig for din støtte og ser frem til at have dig som en del af vores organisation.</p>
+    <p id="text"><?php the_field('tekst3'); ?></p>
 
 <button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
 

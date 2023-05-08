@@ -21,10 +21,7 @@ get_header(); ?>
         <div class="kontaktoplysninger">
             <div class="container py-5 px-5">
                 <h1 class="oplysninger">Vores kontaktoplysninger</h1>
-                <p id="text">Du er mere end velkommen til at kontakte os vedrørende spørgsmål, forespørgsler, donationer, anmeldelser, medlemskab m.m.  
-                   Vi kan kontaktes via telefon fra mandag - fredag mellem 08:00 - 16:00 
-
-                    Vi kan kontaktes via mail alle ugens dage, og vil vende tilbage indenfor 48 timer</p>
+                <p id="text"><?php the_field('tekst'); ?></p>
 
 </div>
    

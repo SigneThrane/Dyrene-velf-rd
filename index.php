@@ -18,7 +18,7 @@ get_header();
 </head>
 <body>
 <div class="video">
-<h1>Vi kan stå sammen</h1>
+<h1><?php the_field('overskrift_video'); ?></h1>
 <iframe width="1060" height="615" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -105,9 +105,9 @@ get_header();
 		<div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(130% + 1.3px); height: 106px;"><path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" style="fill: rgb(242, 232, 219);"></path></svg></div>  
         </div>
 					<div class="animation">
-				 <h1>Hjælp os med at samle hestekræfter</h1> 
+				 <h1><?php the_field('kampagne_overskrift'); ?></h1> 
 				 <img  width="70%" src="<?php the_field('donation'); ?>" alt="Dyre i nød" />
-						<h2>Sammen er vi STÆRKERE</h2>
+						<h2><?php the_field('kampagne_brodtekst'); ?></h2>
 						
 						<p id="center"><a id="link" href="/doner">Klik på pilen, for at fortsætte med din heltegerning > </a></p>
 

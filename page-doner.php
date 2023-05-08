@@ -20,11 +20,9 @@ get_header(); ?>
 
 <body>
     <div class="hest">
-        <h1>Hjælp os med at samle hestekræfter</h1>
+        <h1><?php the_field('kampagne_overskrift'); ?></h1>
         <img  width="70%" src="<?php the_field('hestekraft'); ?>" alt="Donation oversigt" />
-        <p id="center">"Vores hestekræfter stammer fra vores fælles engagement i at hjælpe dyr i nød. 
-         Din donation er med til at øge vores styrke og vores evne til at redde flere dyreliv. 
-          Støt vores mission og vær med til at gøre en forskel."</p>
+        <p id="center"><?php the_field('kampagne_brodtekst'); ?></p>
         
           <div class="qr">
                 <div class="d-flex flex-nowrap">
@@ -51,40 +49,24 @@ get_header(); ?>
     </div>
     </div>
     <div id="space" class="stot">
-    <p id="center"><b>Vi tager imod valgfrie engangs beløb, månedlige abbonenter samt fysiske produkter. Læs mere om de enkelte muligheder, herunder:</b></p>
+    <p id="center"><b><?php the_field('overskrift1'); ?></b></p>
 
-    <h1>Valgfrit engangs-beløb</h1>
+    <h1><?php the_field('overskrift2'); ?></h1>
 
-    <p id="text">Vi er dybt taknemmelige for alle donationer, da det gør det muligt for os at yde 
- den nødvendige hjælp, såsom dyrlægebehandlinger, medicin, og fødevarer til de dyr, der 
-  har brug for det mest. Din donation kan gøre en væsentlig forskel i dyrenes liv og 
-   hjælpe os med at fortsætte vores arbejde med at redde og tage vare på dyr i nød. 
+    <p id="text"><?php the_field('tekst1'); ?></p>
 
-Vi værdsætter din støtte dybt og takker dig for at hjælpe os med at sikre dyrenes velfærd. 
- Hvis du ønsker at holde dig opdateret med vores arbejde og resultater, kan du følge os på vores Facebook-side. 
-  Tusind tak for din hjælp!</p>
+  <p id="center"><b> <?php the_field('overskrift3'); ?></b></p>
 
-  <p id="center"><b> Hver donation, uanset størrelse, er af stor betydning og hjælper os med at opretholde  vores vigtige arbejde for dyrenes velfærd.</b></p>
+<h1><?php the_field('overskrift4'); ?></h1>
 
-<h1>Månedlig abbonent</h1>
-
-<p id="text">Hvis du ønsker at blive en månedlig abonnent og støtte vores arbejde for at sikre 
- dyrenes velfærd, beder vi venligst om, at du udfylder vores kontaktformular 
-  med dit fulde navn, adresse, postnummer, by og det ønskede månedlige donationbeløb. 
-
-Vi er dybt taknemmelige for din støtte og værdsætter enhver donation, der hjælper os 
- med at fortsætte vores arbejde. Bemærk venligst, at du til enhver tid kan afmelde dig abonnementet, ved at kontakte os. </p>
+<p id="text"><?php the_field('brodtekst2'); ?> </p>
 
 <button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
 
-<h1>Donation af fysiske genstande</h1>
-<p id="center"><b>Har du lyst til at hjælpe de mishandlede dyr, men har du ikke mulighed for at donere penge? Intet problem! </b></p>
+<h1><?php the_field('overskrift5'); ?></h1>
+<p id="center"><b><?php the_field('overskrift_b'); ?> </b></p>
 
-<p id="text">Vi accepterer også donationer af fysiske genstande, såsom foder, tæpper, legetøj og 
- andre nødvendigheder, som kan hjælpe dyrene i deres hverdag. Hvis du har noget, du 
-  gerne vil donere, er du velkommen til at kontakte os via mail eller telefon, og vi vi 
-  l arrangere en afhentning af genstandene på et tidspunkt og sted, der passer dig. Enhver donation, 
-   stor eller lille, betyder noget for de mishandlede dyr, og vi er taknemmelige for enhver hjælp, vi kan få."</p> 
+<p id="text"><?php the_field('brodtekst3'); ?></p> 
    <img  width="25%" src="<?php the_field('kattemad'); ?>" alt="Donation af kattemad" />
 
 

@@ -20,19 +20,7 @@ get_header(); ?>
 <body>
 <div class="soger">
     <h1>Bliv en del af fællesskabet</h1>
-    <p id="text">Vi er altid på udkig efter frivillige, da vi modtager en stor mængde henvendelser angående dyr i nød. 
-        Ønsker du at bidrage til vores sag og besidder du den nødvendige robusthed til at håndtere de udfordrende situationer, 
-        vi ofte står overfor som dyre reddere? </br></br>
-
-En kærlighed til dyr er afgørende, da det er hjertet i vores arbejde. Du vil også skulle vise respekt og empati over for de mennesker,
-vi samarbejder med, da de kan have mange forskellige grunde til ikke at kunne tage sig af deres dyr. </br></br>
-
-Hvis du ønsker at blive frivillig hos os, må du meget gerne sende os en beskrivelse af dig selv, via vores kontaktformular længere nede på siden. 
-Beskrivelsen må meget gerne indeholde navn, adresse, beskrivelse af dig som person, samt en beskrivelse af hvad du vil opnå ved at være frivillig hos os. 
-Derudover vil vi gerne bede om en kopi af din straffeattest, af sikkerhedsmæssige årsager.
-Efter modtagelse af din mail, vil vi kontakte dig hurtigst muligt.</br></br>
-
-Hvis du har yderligere spørgsmål, er du velkommen til at kontakte os via kontaktformularen eller telefon.</p>
+    <p id="text"><?php the_field('tekst1'); ?></p>
 
 <button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
 
@@ -62,14 +50,7 @@ Hvis du har yderligere spørgsmål, er du velkommen til at kontakte os via konta
 
     <div class="rolle">
         <h1>Din rolle som frivillig</h1>
-        <p id="text">At være frivillig hos Dyrenes Velfærd indebærer at være en del af en organisation, der arbejder for at forbedre dyrevelfærden i samfundet. </br></br>
-
-Som frivillig kan man blive involveret i en række forskellige opgaver, herunder at deltage i sager, hvor man tager billeder og hjælper med at træffe 
-beslutninger omkring dyrenes trivsel. Man kan også være med til at pleje og passe på de dyr, der er blevet reddet, og sørge for, at de får den nødvendige br behandling og omsorg.</br></br>
-
-Derudover kan man også hjælpe med fundraising, arrangementer og oplysningsarbejde, der bidrager til at sprede kendskabet til organisationens arbejde.</br></br>
-
-Som frivillig hos Dyrenes Velfærd er man en vigtig del af en indsats, der gør en positiv forskel for dyr i nød. Vi glæder os til at høre fra dig. </p>
+        <p id="text"><?php the_field('tekst2'); ?> </p>
 
 
 
