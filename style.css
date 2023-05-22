@@ -358,6 +358,11 @@ p{
 }
 
 /*Forside*/
+.instapost{
+   background-color: #5D7E4B;
+   color: #F7F7F6;
+}
+
 .anmeldsag{
    background-color: #5D7E4B;
    color: #F7F7F6;
