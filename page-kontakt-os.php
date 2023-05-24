@@ -32,7 +32,7 @@ get_header(); ?>
             <p id="text"><i id="icons" class="bi bi-envelope-fill"></i> Dyrenes.velfaerd@gmail.com </p>
             <p id="text"><i id="icons" class="bi bi-telephone-fill"></i>+ 45 61 69 85 48</p>
             <p id="text"><i  id="icons" class="bi bi-key-fill"></i>CVR-nr: 39052024 </p>
-            <img  width="50%" src="<?php the_field('logo'); ?>" alt="Logo" />
+            <img style="justify-content: left; " width="45%" src="<?php the_field('logo'); ?>" alt="Logo" />
         </div>
 
         <div class="col-md-6">  <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?></div>

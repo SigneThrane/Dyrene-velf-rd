@@ -14,7 +14,7 @@ get_header();
 <div id="hero">
     <div id="herorow" class="row">
 	<img id="logo1"  width="20%" src="<?php the_field('logo'); ?>" alt="Dyrenesvelfærdlogo" />
-    <div id="herotext" class="col-sm-12"><h1 id=herotext>Vi redder dyr i nød</h1></div></div></div>
+    <div id="herotext" class="col-sm-12"><h1 id=herotext> Vi har hjerte for dyrene</h1></div></div></div>
 </head>
 <body>
 <div class="video">
