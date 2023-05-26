@@ -15,7 +15,7 @@ get_header(); ?>
 
 <div id="herodoner">
     <div id="herorow" class="row">
-    <div id="herotext" class="col-sm-12"><h1 id=herotext>Doner</h1></div></div></div>
+    <div id="herotext" class="col-sm-12"><h1 id=herotext>Donér</h1></div></div></div>
 </head>
 
 <body>
@@ -24,22 +24,17 @@ get_header(); ?>
         <img  width="70%" src="<?php the_field('hestekraft'); ?>" alt="Donation oversigt" />
         <p id="center"><?php the_field('kampagne_brodtekst'); ?></p>
         
-          <div class="qr">
-                <div class="d-flex flex-nowrap">
-  <div class="order-3 p-2"><div id="qr">
-    <img  width="36%" src="<?php the_field('bank'); ?>" alt="bankkort" />
-                        <h3>Danske Bank
-                        9570 12519737</h3></div></div>
+        <div class="row justify-content-center"> 
+                
+				<div class="col-sm-8" id="mpay">
+                <img width="65%" src="<?php the_field('mobilepay'); ?>" alt="mobilepay logo" />
+				</div>
 
-  <div class="order-2 p-2"><div id="qr"><img  width="70%" src="<?php the_field('qr'); ?>" alt="mobilepay logo" /></div></div>
+				<div class="col-sm-4" id="mpay">
+                <img  width="65%" src="<?php the_field('bank'); ?>" alt="bankkort" />
+				</div>
+			</div>
 
-  <div class="order-1 p-2">  
-    <img  width="30%" src="<?php the_field('mobilepay'); ?>" alt="mobilepay logo" />
-                            <h3>Mobilepay
-                                87003
-                                Dyrenes velfærd</h3></div>
-</div>        
-    </div>
 
 
     <div class="wrapper">

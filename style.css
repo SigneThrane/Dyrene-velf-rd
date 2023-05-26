@@ -32,6 +32,7 @@ body {
 nav#mobile-menu.burgermenu-active {
    background-color: #36482C;
    color: #F2E8DB;
+   font-family: itim !important;
 }
 
 ul.sub-menu {
@@ -511,10 +512,6 @@ div.swiper-button-prev.testimonial-nav-arrow {
    border-radius: 30px;
 }
 
-#qr {
-   background-color: #F5C781;
-}
-
 #hero {
    background-image: url('img/forside.png');
    background-size:100vh;
@@ -619,12 +616,25 @@ div.swiper-button-prev.testimonial-nav-arrow {
 #herotext {
    display: flex;
    justify-content: flex-end;
-   padding-top: 250px;
-   padding-bottom: 250px;
+   padding-top: 200px;
+   padding-bottom: 150px;
    color: #F5C781;
    font-family: lato !important;
 font-size: 57px !important;
 }
+
+
+@media only screen and (max-width: 1160px) {
+#herotext {
+   display: flex;
+   justify-content: center;
+   padding-top: 200px;
+   padding-bottom: 150px;
+   color: #F5C781;
+   font-family: lato !important;
+font-size: 57px !important;
+padding-right: 50px;
+}}
 
 #herodivforside {
    display: flex;
@@ -636,4 +646,19 @@ font-size: 57px !important;
    font-family: itim !important;
    font-size: 35px !important;
 }
+
+#mpay{
+   background-color: #F5C781;
+   border-radius: 30px;
+   margin: 2%;
+   padding: 1%;
+}
+
+#mpay.col-sm-8 {
+   max-width:600px;
+}
+#mpay.col-sm-4 {
+   max-width:300px;
+}
+
 
