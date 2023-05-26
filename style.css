@@ -63,6 +63,11 @@ font-size: larger;
     text-align: center;
  }
 
+ @media only screen and (max-width: 1160px) {
+   .kontakt {
+      margin-left: 40px;
+      margin-right: 40px;
+   }}
 
    #kontakt{
       background-color: #5D7E4B;
@@ -358,11 +363,6 @@ p{
 }
 
 /*Forside*/
-.instapost{
-   background-color: #5D7E4B;
-   color: #F7F7F6;
-}
-
 .anmeldsag{
    background-color: #5D7E4B;
    color: #F7F7F6;
@@ -615,6 +615,7 @@ div.swiper-button-prev.testimonial-nav-arrow {
    background-size: cover;
 }
 
+
 #herotext {
    display: flex;
    justify-content: flex-end;
@@ -625,6 +626,14 @@ div.swiper-button-prev.testimonial-nav-arrow {
 font-size: 57px !important;
 }
 
-#logo1{
-
+#herodivforside {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   padding-top: 250px;
+   padding-bottom: 250px;
+   color: #F5C781;
+   font-family: itim !important;
+   font-size: 35px !important;
 }
+
