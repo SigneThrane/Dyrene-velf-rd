@@ -70,7 +70,7 @@
                         <div class="col-md-2">
 						<a href="/bliv-frivillig/">Bliv frivillig</a>
 						 <br>
-						 <a href="/bliv-medlem/"> bliv medlem</a>
+						 <a href="/bliv-medlem/"> Bliv medlem</a>
 						 <br>
 						 <a href="/bliv-sponsor/"> Bliv sponsor</a>
                         </div>
