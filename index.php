@@ -117,7 +117,7 @@ get_header();
                 </svg></div> 
 						<div class="instapost">
 						<h1>Følg os på Instagram</h1>
-						<?php echo apply_shortcodes( '[instagram-feed feed=3]' ); ?>
+						<?php echo apply_shortcodes( '[instagram-feed feed=1]' ); ?>
 			
 				
 		
