@@ -20,7 +20,14 @@ get_header();
 <body>
 <div class="video">
 <h1><?php the_field('overskrift_video'); ?></h1>
-<iframe width="1060" height="615" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<?php if(have_posts()): ?>
+                    <?php while(have_posts()): the_post() ?>
+                        <?php the_content(); ?>
+                    <?php endwhile; ?>
+                <?php else: ?>
+                    <p>No content found</p>
+                <?php endif; ?>
+                </section>
 
 
 
@@ -37,7 +44,7 @@ get_header();
                 <img  width="70%" src="<?php the_field('anmeld'); ?>" alt="Katte der spiser" />
            
 					<h4>Anmeld en sag</h4>
-					<p>Vi besøger stedet for 
+					<p id="pattext">Vi besøger stedet for 
 					at få forbedret dyrenes 
 					forhold.</p>
 				</div>
@@ -46,7 +53,7 @@ get_header();
                 <img  width="70%" src="<?php the_field('meld'); ?>" alt="Katte der spiser" />
            
 				<h4>Bliv frivillig</h4>
-					<p>Vi har altid brug for
+					<p id="pattext">Vi har altid brug for
                     frivillige hænder.</p>
 				</div>
 
@@ -54,7 +61,7 @@ get_header();
                 <img  width="70%" src="<?php the_field('sponsor'); ?>" alt="Katte der spiser" />
              
 				<h4>Bliv sponsor</h4>
-					<p>
+					<p id="pattext">
 					Som sponsor kan du 
                     være med 
                     til at gøre en forskel.
@@ -65,7 +72,7 @@ get_header();
                 <img  width="80%" src="<?php the_field('donere'); ?>" alt="Katte der spiser" />
        
 				<h4>Giv et bidrag</h4>
-					<p>Beløbet går ubeskåret 
+					<p id="pattext">Beløbet går ubeskåret 
 						til dyrene.</p>
 				</div>
 			</div>

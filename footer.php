@@ -84,9 +84,9 @@
                         </div>
                         
 						<div class="col-md-1" id="some">
-						<i class="bi bi-facebook fa-10x"></i>
+            <a href="https://www.facebook.com/dyrenesvelfaerd"> <i class="bi bi-facebook fa-10x"></i></a>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<i class="bi bi-instagram fa-lg"></i>
+            <a href="https://www.instagram.com/semestereksameneasv/"><i class="bi bi-instagram fa-lg"></i></a>
 
 					
                         

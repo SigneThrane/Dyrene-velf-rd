@@ -82,7 +82,7 @@ get_header(); ?>
                 <img  width="70%" src="<?php the_field('bliv_medlem'); ?>" alt="Katte der spiser" />
            
 					<h4>Bliv medlem</h4>
-					<p>Det koster kun 100 
+					<p id="pattext">Det koster kun 100 
                     kroner om året.</p>
 				</div>
 
@@ -90,7 +90,7 @@ get_header(); ?>
                 <img  width="70%" src="<?php the_field('bliv_frivillig'); ?>" alt="Katte der spiser" />
            
 				<h4>Bliv frivillig</h4>
-					<p>Vi har altid brug for
+					<p id="pattext">Vi har altid brug for
                     frivillige hænder.</p>
 				</div>
 
@@ -98,7 +98,7 @@ get_header(); ?>
                 <img  width="70%" src="<?php the_field('bliv_sponsor'); ?>" alt="Katte der spiser" />
              
 				<h4>Bliv sponsor</h4>
-					<p>
+					<p id="pattext">
 					Som sponsor kan du 
                     være med 
                     til at gøre en forskel.
@@ -109,7 +109,7 @@ get_header(); ?>
                 <img  width="80%" src="<?php the_field('giv_et_bidrag'); ?>" alt="Katte der spiser" />
        
 				<h4>Giv et bidrag</h4>
-					<p>Beløbet går ubeskåret 
+					<p id="pattext">Beløbet går ubeskåret 
 						til dyrene.</p>
 				</div>
 			</div>
