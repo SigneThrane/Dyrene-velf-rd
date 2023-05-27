@@ -34,11 +34,11 @@ get_header(); ?>
         Husk at du altid vil stå som anonym i offentligheden. 
 
         Hvis du har spørgsmål, kan du eventuelt kontakte os på mobil 61 69 85 48.</p>
-
+        <img id="mand"  width="50%" src="<?php the_field('mand_logo'); ?>" alt="mand med logo" />
         </div>
 
                 <div class="col-sm-6">
-                    <p>Har du set noget som giver dig ondt i hjertet? </p>
+                    <h4 class="ondt">Har du set noget som giver dig ondt i hjertet? </h4>
                 <?php echo apply_shortcodes( '[contact-form-7 id="30" title="Contact form 1"]' ); ?>
 </div>
 </div>

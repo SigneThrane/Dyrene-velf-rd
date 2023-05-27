@@ -12,7 +12,6 @@
  */
 
 get_header(); ?>
-
 <div id="herodoner">
     <div id="herorow" class="row">
     <div id="herotext" class="col-sm-12"><h1 id=herotext>Donér</h1></div></div></div>

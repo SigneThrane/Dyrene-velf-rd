@@ -325,6 +325,16 @@ p {
    font-size: larger;
   }
 
+ .ondt {
+   text-align: justify;
+   font-family: itim;
+  }
+
+  #mand{
+
+ 
+  }
+
   #text{
    margin-left: 200px;
    margin-right: 200px;
@@ -334,7 +344,7 @@ p {
   }
 
   #patext{
-   margin-left: 200px;
+   margin-left: 160px;
    margin-right: 90px;
    text-align: justify;
    font-family: itim;
