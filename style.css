@@ -679,9 +679,10 @@ padding-right: 50px;
    flex-wrap: wrap;
    padding-top: 250px;
    padding-bottom: 250px;
+   left: 10%;
    color: #F5C781;
    font-family: itim !important;
-   font-size: 35px !important;
+   font-size: 30px !important;
 }
 
 #mpay{

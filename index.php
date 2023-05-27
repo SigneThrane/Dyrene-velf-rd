@@ -14,7 +14,7 @@ get_header();
 <div id="hero">
     <div id="herorow" class="row">
 	<div class="col-sm-4"></div>
-    <div id="herodivforside" class="col-sm-8">	<div id="logo"><img id="logo1"  width="80%" src="<?php the_field('logo'); ?>" alt="Dyrenesvelfærdlogo" /></div> <h1 id=h1forside> Vi har hjerte for dyrene</h1></div></div></div>
+    <div id="herodivforside" class="col-sm-8">	<div id="logo"><img id="logo1"  width="100%" src="<?php the_field('logo'); ?>" alt="Dyrenesvelfærdlogo" /></div> <h1 id=h1forside> Vi har hjerte for dyrene</h1></div></div></div>
 
 </head>
 <body>
