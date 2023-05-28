@@ -55,7 +55,7 @@ get_header(); ?>
 
 <p id="text"><?php the_field('brodtekst2'); ?> </p>
 
-<button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
+<button id="lysorange"><p><a id="grøn" href="/eksamen/kontakt-os/">Kontakt</a></p> </button>
 
 <h1><?php the_field('overskrift5'); ?></h1>
 <p id="center"><b><?php the_field('overskrift_b'); ?> </b></p>
@@ -124,8 +124,8 @@ get_header(); ?>
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-            <button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
-            <p id="center"><a href="/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
+            <button id="hjaelp"><p><a id="hjlp" href="/eksamen/doner/">DONÉR NU</a></p> </button>
+            <p id="center"><a href="/eksamen/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
 	
 		</div>
            </div>

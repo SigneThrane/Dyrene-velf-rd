@@ -389,7 +389,17 @@ p{
    text-align: justify;
    font-family: itim;
    font-size: larger;
-  }}
+  }
+
+  #patext {
+   margin-left: 10px;
+   margin-right: 10px;
+   text-align: justify;
+   font-family: itim;
+   font-size: larger;
+  }
+
+}
 
 
 .container-index {
@@ -467,6 +477,12 @@ p{
    border-radius: 2%;
 }
 
+.privat{
+   background-color: #F2E8DB;
+   color: #36482C;
+
+}
+
 
 /*om os*/
 #ptekst{
@@ -488,6 +504,13 @@ p{
 .anm-container {
    margin-left: 200px;
    margin-right: 200px;
+}
+
+@media only screen and (max-width: 1160px) {
+   .anm-container {
+      margin-left: 10px;
+      margin-right: 10px;
+   }
 }
 
 .om{
@@ -641,6 +664,16 @@ div.swiper-button-prev.testimonial-nav-arrow {
 
 #heroos {
    background-image: url('img/os.png');
+   background-size:100vh;
+   background-position: center;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#herooss {
+   background-image: url('img/guide.png');
    background-size:100vh;
    background-position: center;
    background-attachment: fixed;

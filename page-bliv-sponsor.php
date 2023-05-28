@@ -24,7 +24,7 @@ get_header();
         <h1>At blive sponsor</h1>
         <p id="text"><?php the_field('tekst'); ?></p>
 
-<button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
+<button id="lysorange"><p><a id="grøn" href="/eksamen/kontakt-os/">Kontakt</a></p> </button>
 
 <h1>Stort tak til vores sponsorer</h1>
 <?php echo do_shortcode('[slick_logo_carousel id="230"]'); ?>
@@ -37,16 +37,16 @@ get_header();
         <h1>Du kan også støtte på følgende måder</h1>
         <div class="row">
             <div class="col-md-3">
-                   <button id="hjaelp"><p><a id="grøn" href="/bliv-medlem/">Bliv medlem</a></p> </button>
+                   <button id="hjaelp"><p><a id="grøn" href="/eksamen/bliv-medlem/">Bliv medlem</a></p> </button>
             </div>
             <div class="col-md-3">
-            <button id="hjaelp"><p><a id="grøn" href="/bliv-frivillig/">Bliv frivillig</a></p> </button>
+            <button id="hjaelp"><p><a id="grøn" href="/eksamen/bliv-frivillig/">Bliv frivillig</a></p> </button>
             </div>
             <div class="col-md-3">
-                     <button id="hjaelp"><p><a id="grøn" href="/bliv-sponsor/">Bliv sponsor</a></p> </button>
+                     <button id="hjaelp"><p><a id="grøn" href="/eksamen/bliv-sponsor/">Bliv sponsor</a></p> </button>
             </div>
             <div class="col-md-3">
-                 <button id="hjaelp"><p><a id="grøn" href="/doner/">Donér</a></p> </button>
+                 <button id="hjaelp"><p><a id="grøn" href="/eksamen/doner/">Donér</a></p> </button>
                
             </div>
         </div>
@@ -61,8 +61,8 @@ get_header();
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-            <button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
-            <p id="center"><a href="/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
+            <button id="hjaelp"><p><a id="hjlp" href="/eksamen/doner/">DONÉR NU</a></p> </button>
+            <p id="center"><a href="/eksamen/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
 		
 		</div>
         </div>

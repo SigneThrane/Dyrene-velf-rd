@@ -72,8 +72,8 @@ get_header(); ?>
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
-            <p id="center"><a href="/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
+			<button id="hjaelp"><p><a id="hjlp" href="/eksamen/doner/">DONÉR NU</a></p> </button>
+            <p id="center"><a href="/eksamen/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
 	
 		</div>
                 
