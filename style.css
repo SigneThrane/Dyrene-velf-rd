@@ -73,11 +73,6 @@ font-size: larger;
 display: none;
 }}
 
- @media only screen and (max-width: 1160px) {
-   .kontakt {
-      display: none;
-   }}
-
    #kontakt{
       background-color: #5D7E4B;
       color: #F7F7F6;
@@ -776,3 +771,8 @@ padding-right: 50px;
    
    }
 
+
+@media only screen and (max-width: 1160px) {
+   #mand {
+display: none;
+         }}
