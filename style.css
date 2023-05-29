@@ -356,6 +356,7 @@ p {
 
   @media only screen and (max-width: 1000px) {
    #patext {
+      display:none;
   margin-left: 0px!important;
   margin-right: 0px!important;
   background-color: #5D7E4B;
