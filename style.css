@@ -69,6 +69,11 @@ font-size: larger;
  }
 
  @media only screen and (max-width: 1160px) {
+   #contactinfo {
+display: none;
+}}
+
+ @media only screen and (max-width: 1160px) {
    .kontakt {
    }}
 
@@ -250,6 +255,11 @@ font-size: larger;
    background-color: #F19B38;
    text-align: center;
 }
+
+@media only screen and (max-width: 1160px) {
+   #mand {
+display: none;
+}}
 
 /*Knapper*/
 #hjaelp{

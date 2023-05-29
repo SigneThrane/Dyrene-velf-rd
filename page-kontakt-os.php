@@ -27,7 +27,7 @@ get_header(); ?>
    
 <div class="kontakt">
     <div class="row justify-content-center">
-        <div class="col-md-6">
+        <div class="col-md-6" id="contactinfo">
             <p id="text"><i id="icons" class="bi bi-person-fill"></i>Formand Jeanette Wulff Geerthsen</p>
             <p id="text"><i id="icons" class="bi bi-envelope-fill"></i> Dyrenes.velfaerd@gmail.com </p>
             <p id="text"><i id="icons" class="bi bi-telephone-fill"></i>+ 45 61 69 85 48</p>
