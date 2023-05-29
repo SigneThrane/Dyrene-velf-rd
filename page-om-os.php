@@ -28,7 +28,7 @@ get_header(); ?>
             </p>
             </div>   
             <div class="col-lg-6">
-            <img  width="70%" src="<?php the_field('location'); ?>" alt="Logo" />
+            <img  width="80%" src="<?php the_field('location'); ?>" alt="Logo" />
             </div>
         </div>
         <div class="wrapper">
