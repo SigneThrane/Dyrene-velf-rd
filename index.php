@@ -41,7 +41,7 @@ get_header();
 			<div class="row justify-content-center"> 
                 
 				<div class="col-sm-3" id="op">
-                <img  width="70%" src="<?php the_field('anmeld'); ?>" alt="Katte der spiser" />
+                <img  width="80%" src="<?php the_field('anmeld'); ?>" alt="Katte der spiser" />
            
 					<h4>Anmeld en sag</h4>
 					<p id="pattext">Vi besøger stedet for 
@@ -50,7 +50,7 @@ get_header();
 				</div>
 
 				<div class="col-sm-3" id="op">
-                <img  width="70%" src="<?php the_field('meld'); ?>" alt="Katte der spiser" />
+                <img  width="80%" src="<?php the_field('meld'); ?>" alt="Katte der spiser" />
            
 				<h4>Bliv frivillig</h4>
 					<p id="pattext">Vi har altid brug for
@@ -58,7 +58,7 @@ get_header();
 				</div>
 
 				<div class="col-sm-3" id="op">
-                <img  width="70%" src="<?php the_field('sponsor'); ?>" alt="Katte der spiser" />
+                <img  width="80%" src="<?php the_field('sponsor'); ?>" alt="Katte der spiser" />
              
 				<h4>Bliv sponsor</h4>
 					<p id="pattext">
@@ -69,7 +69,7 @@ get_header();
 				</div>
 
 				<div class="col-sm-3" id="op">
-                <img  width="70%" src="<?php the_field('donere'); ?>" alt="Katte der spiser" />
+                <img  width="80%" src="<?php the_field('donere'); ?>" alt="Katte der spiser" />
        
 				<h4>Giv et bidrag</h4>
 					<p id="pattext">Beløbet går ubeskåret 

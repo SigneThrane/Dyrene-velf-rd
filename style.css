@@ -329,15 +329,17 @@ p {
    text-align: justify;
    font-family: itim;
   }
-  @media only screen and (max-width: 1280px) {
+  @media only screen and (max-width: 1000px) {
    #text {
-      margin-left: 40px;
-      margin-right: 40px;
+      margin-left: 50px !important;
+      margin-right: 50px !important;
       text-align: justify;
       font-family: itim;
       font-size: larger;
      }
  }
+
+
   #text{
    margin-left: 200px;
    margin-right: 200px;
@@ -355,8 +357,8 @@ p {
   }
 
   #pattext{
-   margin-left: 20px;
-   margin-right: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
    text-align: justify;
    font-family: itim;
    font-size: larger;
