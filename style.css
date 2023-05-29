@@ -757,3 +757,11 @@ padding-right: 50px;
 #mpay.col-sm-4 {
    max-width:300px;
 }
+
+
+@media only screen and (max-width: 480px){
+   label{ max-width: 130%; }
+
+   
+   }
+
