@@ -333,13 +333,14 @@ p {
    text-align: justify;
    font-family: itim;
   }
-  @media only screen and (max-width: 1000px) {
+  @media only screen and (max-width: 1400px) {
    #text {
       margin-left: 50px !important;
       margin-right: 50px !important;
       text-align: justify;
       font-family: itim;
       font-size: larger;
+      font-size: medium !important;
      }
  }
 
@@ -776,3 +777,13 @@ padding-right: 50px;
    #mand {
 display: none;
          }}
+
+@media only screen and (max-width: 1366px) {
+   #op{
+    background-color: #F7F7F6;
+   border-radius: 30px;
+   line-height: 2rem;
+   margin: 1%;
+ padding-top: 3%;
+ }
+ }
