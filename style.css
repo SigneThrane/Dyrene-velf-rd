@@ -353,7 +353,7 @@ p {
    font-family: itim;
    font-size: larger;
   }
-  
+
   @media only screen and (max-width: 1000px) {
    #patext {
   margin-left: 0px!important;
@@ -578,6 +578,11 @@ div.swiper-button-prev.testimonial-nav-arrow {
     margin-top:70px;
     line-height: normal;
 }
+
+@media only screen and (max-width: 750px) {
+#donersticky
+{display:none;
+}}
 
 .row {
  margin-left: 50px;
