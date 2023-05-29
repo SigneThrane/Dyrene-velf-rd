@@ -70,8 +70,6 @@ font-size: larger;
 
  @media only screen and (max-width: 1160px) {
    .kontakt {
-      margin-left: 40px;
-      margin-right: 40px;
    }}
 
    #kontakt{
@@ -355,6 +353,13 @@ p {
    font-family: itim;
    font-size: larger;
   }
+  
+  @media only screen and (max-width: 1000px) {
+   #patext {
+  margin-left: 0px!important;
+  margin-right: 0px!important;
+  background-color: #5D7E4B;
+   }}
 
   #pattext{
    margin-left: 10px;
