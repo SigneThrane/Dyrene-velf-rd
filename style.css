@@ -604,6 +604,15 @@ div.swiper-button-prev.testimonial-nav-arrow {
    border-radius: 30px;
 }
 
+@media only screen and (max-width: 1200px) {
+   #h1forside {font-size: xx-large;
+
+   }
+   }
+
+#h1forside {
+}
+   
 #hero {
    background-image: url('img/forside.png');
    background-size:100vh;
