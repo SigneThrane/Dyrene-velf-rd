@@ -105,7 +105,7 @@ get_header();
 
                 <div class="anmeldsag">
 			<h1>Har du set noget som giver dig ondt i hjertet? </h1>
-			<button id="orange"><p><a href="/anmeld-sag/">ANMELD SAG HER</a></p></button>
+			<button id="orange"><p><a href="/eksamen/anmeld-sag/">ANMELD SAG HER</a></p></button>
 			
 			
 			<br>
@@ -117,7 +117,7 @@ get_header();
 				 <img  width="70%" src="<?php the_field('donation'); ?>" alt="Dyre i nød" />
 						<h2><?php the_field('kampagne_brodtekst'); ?></h2>
 						
-						<p id="center"><a id="link" href="/doner">Klik på pilen, for at fortsætte med din heltegerning > </a></p>
+						<p id="center"><a id="link" href="/eksamen/doner/">Klik på pilen, for at fortsætte med din heltegerning > </a></p>
 
 						<div class="wrapper">
 		<div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(128% + 1.3px); height: 123px;">
@@ -137,9 +137,9 @@ get_header();
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-			<button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
+			<button id="hjaelp"><p><a id="hjlp" href="/eksamen/doner/">DONÉR NU</a></p> </button>
 
-			<p id="center"><a href="/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
+			<p id="center"><a href="/eksamen/doner/">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
 
 		</div>
 		</div>

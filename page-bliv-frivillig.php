@@ -22,7 +22,7 @@ get_header(); ?>
     <h1>Bliv en del af fællesskabet</h1>
     <p id="text"><?php the_field('tekst1'); ?></p>
 
-<button id="lysorange"><p><a id="grøn" href="/kontakt-os/">Kontakt</a></p> </button>
+<button id="lysorange"><p><a id="grøn" href="/eksamen/kontakt-os/">Kontakt</a></p> </button>
 
 <div class="wrapper">
     <div style="width:100%; max-width:100%; margin:0px; bottom: 0px; transform: rotate(180deg);"><svg id="mymainsvgelm" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" class="" style="width: calc(124% + 1.3px); height: 69px;">
@@ -64,16 +64,16 @@ get_header(); ?>
         <h1>Du kan også støtte på følgende måder</h1>
         <div class="row">
             <div class="col-md-3">
-                   <button id="hjaelp"><p><a id="grøn" href="/bliv-medlem/">Bliv medlem</a></p> </button>
+                   <button id="hjaelp"><p><a id="grøn" href="/eksamen/bliv-medlem/">Bliv medlem</a></p> </button>
             </div>
             <div class="col-md-3">
-            <button id="hjaelp"><p><a id="grøn" href="/bliv-frivillig/">Bliv frivillig</a></p> </button>
+            <button id="hjaelp"><p><a id="grøn" href="/eksamen/bliv-frivillig/">Bliv frivillig</a></p> </button>
             </div>
             <div class="col-md-3">
-                     <button id="hjaelp"><p><a id="grøn" href="/bliv-sponsor/">Bliv sponsor</a></p> </button>
+                     <button id="hjaelp"><p><a id="grøn" href="/eksamen/bliv-sponsor/">Bliv sponsor</a></p> </button>
             </div>
             <div class="col-md-3">
-                 <button id="hjaelp"><p><a id="grøn" href="/doner/">Donér</a></p> </button>
+                 <button id="hjaelp"><p><a id="grøn" href="/eksamen/doner/">Donér</a></p> </button>
                
             </div>
         </div>
@@ -88,8 +88,8 @@ get_header(); ?>
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-            <button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
-            <p id="center"><a href="/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
+            <button id="hjaelp"><p><a id="hjlp" href="/eksamen/doner/">DONÉR NU</a></p> </button>
+            <p id="center"><a href="/eksamen/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
 		
 
 

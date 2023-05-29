@@ -87,5 +87,5 @@
 
 		</header><!-- #masthead -->
 	<div id="donersticky">
-    <p><a href="/doner">STØT</a></p>
+    <p><a href="/eksamen/doner/">STØT</a></p>
 </div>

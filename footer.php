@@ -60,27 +60,25 @@
                         </div>
 
                         <div class="col-md-2">
-						<a href="/anmeld-sag/">Anmeld sag</a>
+						<a href="/eksamen/anmeld-sag/">Anmeld sag</a>
 							<br>
-							<a href="//guides//">Guides</a>
-								<br>
-								<a href="/doner">Doner </a>
+								<a href="/eksamen/doner">Doner </a>
+                <br>
+                <a href="/eksamen/bliv-frivillig/">Bliv frivillig</a>
                         </div>
 
                         <div class="col-md-2">
-						<a href="/bliv-frivillig/">Bliv frivillig</a>
+						 <a href="/eksamen/bliv-medlem/"> Bliv medlem</a>
 						 <br>
-						 <a href="/bliv-medlem/"> Bliv medlem</a>
-						 <br>
-						 <a href="/bliv-sponsor/"> Bliv sponsor</a>
+						 <a href="/eksamen/bliv-sponsor/"> Bliv sponsor</a>
+             <br>
+             <a href="/eksamen/om-os/"> Om os</a>
                         </div>
 
 						<div class="col-md-2">
-						<a href="/om-os/"> Om os</a>
+						 <a href="/eksamen/kontakt-os/"> Kontakt os</a>
 						 <br>
-						 <a href="/kontakt-os/"> Kontakt os</a>
-						 <br>
-						 <a href=" http://dyrene-velfrd-1.local/?page_id=3"> Privatlivspolitik</a>
+						 <a href="/eksamen/privatlivspolitik/"> Privatlivspolitik</a>
                         </div>
                         
 						<div class="col-md-1" id="some">

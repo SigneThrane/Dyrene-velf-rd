@@ -12,9 +12,9 @@
  */
 
 get_header(); ?>
-<div id="hero">
+<div id="herokontakt">
     <div id="herorow" class="row">
-    <div id="herotext" class="col-sm-8"><h1 id=herotext>Kontakt os</h1></div></div></div>
+    <div id="herotext" class="col-sm-12"><h1 id=herotext>Kontakt os</h1></div></div></div>
 </head>
 
 <body>
@@ -58,8 +58,8 @@ get_header(); ?>
                 <div class="dyrene">
 		
 			<h1>Hjælp dyrene - støt en god sag</h1>
-            <button id="hjaelp"><p><a id="hjlp" href="/doner/">DONÉR NU</a></p> </button>
-			<p id="center"><a href="/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
+            <button id="hjaelp"><p><a id="hjlp" href="/eksamen/doner/">DONÉR NU</a></p> </button>
+			<p id="center"><a href="/eksamen/doner">Har du spørgsmål til hvordan du kan støtte? Læs mere her </a></p>
 
 		</div>
                 
