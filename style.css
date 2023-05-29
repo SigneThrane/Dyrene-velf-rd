@@ -329,11 +329,16 @@ p {
    text-align: justify;
    font-family: itim;
   }
+  @media only screen and (max-width: 1000px) {
+   #text {
+      margin-left: 50px !important;
+      margin-right: 50px !important;
+      text-align: justify;
+      font-family: itim;
+      font-size: larger;
+     }
+ }
 
-  #mand{
-
- 
-  }
 
   #text{
    margin-left: 200px;
@@ -344,16 +349,16 @@ p {
   }
 
   #patext{
-   margin-left: 160px;
-   margin-right: 90px;
+   margin-left: 110px;
+   margin-right: 110px;
    text-align: justify;
    font-family: itim;
    font-size: larger;
   }
 
   #pattext{
-   margin-left: 20px;
-   margin-right: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
    text-align: justify;
    font-family: itim;
    font-size: larger;
@@ -741,5 +746,3 @@ padding-right: 50px;
 #mpay.col-sm-4 {
    max-width:300px;
 }
-
-
