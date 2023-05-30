@@ -523,6 +523,11 @@ p{
    color: #36482C;
 }
 
+@media only screen and (max-width: 1160px) {
+   .om{
+display:none;
+   }}
+
 /* Anmeldelser slider*/
 span.swiper-pagination-bullet.swiper-pagination-bullet-active {
    color: #36482C;
