@@ -69,9 +69,8 @@ font-size: larger;
  }
 
  @media only screen and (max-width: 1160px) {
-   .kontakt {
-      margin-left: 40px;
-      margin-right: 40px;
+   #kontakt {
+margin:0;
    }}
 
    #kontakt{
