@@ -750,3 +750,58 @@ padding-right: 50px;
 
 .wpcf7 .wpcf7-form-control { max-width: 100%; }
 
+/*RESPONSIVE*/
+
+@media only screen and (max-width: 1160px) {
+   #contactinfo {
+display: none;
+}}
+
+@media only screen and (max-width: 1160px) {
+   #mand {
+display: none;
+}}
+
+@media only screen and (max-width: 1400px) {
+   #text {
+      margin-left: 50px !important;
+      margin-right: 50px !important;
+      text-align: justify;
+      font-family: itim;
+      font-size: medium !important;
+     }
+ }
+
+ @media only screen and (max-width: 750px) {
+   #donersticky
+   {display:none;
+   }}
+
+   @media only screen and (max-width: 1200px) {
+      #h1forside {font-size: xx-large;
+   
+      }
+      }
+
+      @media only screen and (max-width: 480px){
+         label{ max-width: 130%; }
+      
+      
+         }
+      
+      
+      @media only screen and (max-width: 1160px) {
+         #mand {
+      display: none;
+               }}
+      
+      @media only screen and (max-width: 1366px) {
+         #op{
+          background-color: #F7F7F6;
+         border-radius: 30px;
+         line-height: 2rem;
+         margin: 1%;
+       padding-top: 3%;
+       }
+       }
+
